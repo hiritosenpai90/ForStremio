@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/98b6353e84bff14e57e94878f186d32a-thumbnail.jpg" group-title="Daily NBA Live",Philadelphia 76ers vs Memphis Grizzlies (9:00 AM)
+#EXTINF:-1 tvg-id="nba.76ers.grizzlies" tvg-logo="https://api.ppv.to/assets/thumb/98b6353e84bff14e57e94878f186d32a-thumbnail.jpg" group-title="NBA Live",76ers vs Grizzlies 9AM
 https://gg.poocloud.in/memphisgrizzlies/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f4ae2b877e18a7b6eada3d49c60a0101-thumbnail.jpg" group-title="Daily NBA Live",Boston Celtics vs Utah Jazz (10:00 AM)
+#EXTINF:-1 tvg-id="nba.celtics.jazz" tvg-logo="https://api.ppv.to/assets/thumb/f4ae2b877e18a7b6eada3d49c60a0101-thumbnail.jpg" group-title="NBA Live",Celtics vs Jazz 10AM
 https://gg.poocloud.in/utahjazz/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/58be4796a4cffeda7b76d8c8830092aa-thumbnail.jpg" group-title="Daily NBA Live",Detroit Pistons vs Los Angeles Lakers (11:30 AM)
+#EXTINF:-1 tvg-id="nba.pistons.lakers" tvg-logo="https://api.ppv.to/assets/thumb/58be4796a4cffeda7b76d8c8830092aa-thumbnail.jpg" group-title="NBA Live",Pistons vs Lakers 1130AM
 https://gg.poocloud.in/losangeleslakers/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/22997a984d271beebf82f778aeb73829-thumbnail.jpg" group-title="Daily NBA Live",Sacramento Kings vs LA Clippers (12:00 PM)
+#EXTINF:-1 tvg-id="nba.kings.clippers" tvg-logo="https://api.ppv.to/assets/thumb/22997a984d271beebf82f778aeb73829-thumbnail.jpg" group-title="NBA Live",Kings vs Clippers 12PM
 https://gg.poocloud.in/laclippers/index.m3u8
