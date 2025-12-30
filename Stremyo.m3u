@@ -1,34 +1,13 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/93220b806877b899320236079156017e-thumbnail.jpg" group-title="🏀 Daily NBA Live (Dec 30,Tue)",@8AM Milwaukee Bucks vs. Charlotte Hornets
-https://cdn3.ggfiles.cfd/live/cdn3/playlist.m3u8?expires=1767044197&token=122f64378519cedc7dcfa63e41a64c64caea4e975d5c700216233a1569dc5006
+#EXTM3U
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c61476a82fdab56c6174f8ef567937ad-thumbnail.jpg" group-title="🏀 Daily NBA Live (Dec 30,Tue)",@8AM Phoenix Suns vs. Washington Wizards
-https://cdn4.ggfiles.cfd/live/cdn4/playlist.m3u8?expires=1767044261&token=b4687a739a2031c76c8d9adb9f2d58a391918a0767605b590c5587007fdb1400
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/98b6353e84bff14e57e94878f186d32a-thumbnail.jpg" group-title="Daily NBA Live",Philadelphia 76ers vs Memphis Grizzlies (9:00 AM)
+https://gg.poocloud.in/memphisgrizzlies/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ad64ae2cdd86c6b69ff779acc7a993a7-thumbnail.jpg" group-title="🏀 Daily NBA Live (Dec 30,Tue)",@8:30AM Golden State Warriors vs. Brooklyn Nets
-https://cdn5.ggfiles.cfd/live/cdn5/playlist.m3u8?expires=1767046847&token=4b61bdccf2c07ea44949324bfe7393d644c4641d3f3a82fcc3af3f8d9b8d5bfb
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f4ae2b877e18a7b6eada3d49c60a0101-thumbnail.jpg" group-title="Daily NBA Live",Boston Celtics vs Utah Jazz (10:00 AM)
+https://gg.poocloud.in/utahjazz/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/bbc14208f911727f832223b6c6bb137d-thumbnail.jpg" group-title="🏀 Daily NBA Live (Dec 30,Tue)",@8:30AM Denver Nuggets vs. Miami Heat
-https://cdn6.ggfiles.cfd/live/cdn6/playlist.m3u8?expires=1767046905&token=441a43cee451517aaa2e387893d7d298d329cf4000e754b90d2ac54a79db8a0b
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/58be4796a4cffeda7b76d8c8830092aa-thumbnail.jpg" group-title="Daily NBA Live",Detroit Pistons vs Los Angeles Lakers (11:30 AM)
+https://gg.poocloud.in/losangeleslakers/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/1b91aa800fbe873cd2b889e54b15eac6-thumbnail.jpg" group-title="🏀 Daily NBA Live (Dec 30,Tue)",@8:30AM Orlando Magic vs. Toronto Raptors
-https://cdn7.ggfiles.cfd/live/cdn7/playlist.m3u8?expires=1767046786&token=586f1e4dd7b7255de190be3b467ddf25c15ad6d453b20c8744b667fa4b85b765
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/e949248ab8236008cb8ae9615b4796eb-thumbnail.jpg" group-title="🏀 Daily NBA Live (Dec 30,Tue)",@9AM Minnesota Timberwolves vs. Chicago Bulls
-https://cdn8.ggfiles.cfd/live/cdn8/playlist.m3u8?expires=1767046997&token=1caeda260236c8486aa491436170d63d4cc3359d3be6ffaf814e2b07d4d3d610
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4c5610d9ea39cefdf1c63f228bc04fe2-thumbnail.jpg" group-title="🏀 Daily NBA Live (Dec 30,Tue)",@9AM Indiana Pacers vs. Houston Rockets
-https://cdn9.ggfiles.cfd/live/cdn9/playlist.m3u8?expires=1767047046&token=574c89648d13f1a33f1fd43d10014716ec1b08de31bed23225a2dc6155b0efc3
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a0d626c16b303b91fb31e5f49c8e8b92-thumbnail.jpg" group-title="🏀 Daily NBA Live (Dec 30,Tue)",@9AM New York Knicks vs. New Orleans Pelicans
-https://cdn10.ggfiles.cfd/live/cdn10/playlist.m3u8?expires=1767046763&token=c2801088de35846b0ba98ab0ad0944a2c6b24b8c74406686646d6be7720ad945
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/673e9a76cac3361e0ac591d76dc063a0-thumbnail.jpg" group-title="🏀 Daily NBA Live (Dec 30,Tue)",@9AM Atlanta Hawks vs. Oklahoma City Thunder
-https://cdn11.ggfiles.cfd/live/cdn11/playlist.m3u8?expires=1767046792&token=61f45cfba83713526fda3db1101caef6984353435aa39692b5d803874ae2d9c1
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/3bdfe60d4f2b86f9ce5e88dbc00cf993-thumbnail.jpg" group-title="🏀 Daily NBA Live (Dec 30,Tue)",@9AM Cleveland Cavaliers vs. San Antonio Spurs
-https://cdn12.ggfiles.cfd/live/cdn12/playlist.m3u8?expires=1767047267&token=fa760d6d1a466da9aea71b2fdf2a48101f0c861d9337874d7923c3c47787d3a2
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b8abe40b76c4a93b464b7d6f275cfedc-thumbnail.jpg" group-title="🏀 Daily NBA Live (Dec 30,Tue)",@11:30AM Dallas Mavericks vs. Portland Trail Blazers
-https://cdn13.ggfiles.cfd/live/cdn13/playlist.m3u8?expires=1767046756&token=2201965e96670a8b2f427691cd9cfe1d148cbd00b56f6c8cff500ac299e992d5
-
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/22997a984d271beebf82f778aeb73829-thumbnail.jpg" group-title="Daily NBA Live",Sacramento Kings vs LA Clippers (12:00 PM)
+https://gg.poocloud.in/laclippers/index.m3u8
