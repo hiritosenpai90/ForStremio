@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Houston Rockets vs. Brooklyn Nets 7AM
 https://cdn2.ggfiles.cfd/live/cdn2/chunks.m3u8
@@ -14,3 +14,28 @@ https://cdn5.ggfiles.cfd/live/cdn5/playlist.m3u8?expires=1767307151&token=fed70e
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Utah Jazz vs. LA Clippers 11:30AM
 https://cdn6.ggfiles.cfd/live/cdn6/playlist.m3u8?expires=1767307166&token=cc0f17b0c2e867f6a42c76ae6513967d0dc2137692f5e8d977a6c031c2253cb7
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="NBA Live",Houston Rockets vs. Brooklyn Nets 7AM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gg.poocloud.in/brooklynnets/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="NBA Live",Miami Heat vs. Detroit Pistons 8AM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gg.poocloud.in/detroitpistons/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="NBA Live",Philadelphia 76ers vs. Dallas Mavericks 9:30AM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gg.poocloud.in/dallasmavericks/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="NBA Live",Boston Celtics vs. Sacramento Kings 11AM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gg.poocloud.in/sacramentokings/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" group-title="NBA Live",Utah Jazz vs. LA Clippers 11:30AM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gg.poocloud.in/laclippers/index.m3u8
