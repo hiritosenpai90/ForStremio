@@ -1,27 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="nba.76ers.grizzlies" tvg-logo="https://api.ppv.to/assets/thumb/98b6353e84bff14e57e94878f186d32a-thumbnail.jpg" group-title="NBA Live",76ers vs Grizzlies 9AM
-https://cdn2.ggfiles.cfd/live/cdn2/playlist.m3u8?expires=1767129821&token=fef4dbd2033fc320136abe2542c097a6483ddd3386a789f0632bdda7df552099
+#EXTINF:-1 tvg-id="nba.timberwolves.hawks" tvg-logo="https://vp-txpro.com/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Timberwolves vs Hawks 4AM
+https://cdn2.ggfiles.cfd/live/cdn2/playlist.m3u8?expires=1767217719&token=a068806f1ef92f8e522aecfc322c99dbbbf38463a2703a2f7cfd7d24132baa1d
 
-#EXTINF:-1 tvg-id="nba.celtics.jazz" tvg-logo="https://api.ppv.to/assets/thumb/f4ae2b877e18a7b6eada3d49c60a0101-thumbnail.jpg" group-title="NBA Live",Celtics vs Jazz 10AM
-https://cdn3.ggfiles.cfd/live/cdn3/playlist.m3u8?expires=1767133730&token=f1b27b1dbdef627ef34a8ef9e086509e565c262c9b1139b9720d0f9dc0407579
+#EXTINF:-1 tvg-id="nba.magic.pacers" tvg-logo="https://vp-txpro.com/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Magic vs Pacers 4AM
+https://cdn3.ggfiles.cfd/live/cdn3/chunks.m3u8
 
-#EXTINF:-1 tvg-id="nba.pistons.lakers" tvg-logo="https://api.ppv.to/assets/thumb/58be4796a4cffeda7b76d8c8830092aa-thumbnail.jpg" group-title="NBA Live",Pistons vs Lakers 1130AM
-https://cdn4.ggfiles.cfd/live/cdn4/playlist.m3u8?expires=1767133768&token=bb8f034ee5778fe17d34627caf43dc306ec40afcedc6dc4b744d30628ffa0f73
+#EXTINF:-1 tvg-id="nba.suns.cavaliers" tvg-logo="https://vp-txpro.com/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Suns vs Cavaliers 430PM
+https://cdn4.ggfiles.cfd/live/cdn4/chunks.m3u8
 
-#EXTINF:-1 tvg-id="nba.kings.clippers" tvg-logo="https://api.ppv.to/assets/thumb/22997a984d271beebf82f778aeb73829-thumbnail.jpg" group-title="NBA Live",Kings vs Clippers 12PM
-https://cdn5.ggfiles.cfd/live/cdn5/playlist.m3u8?expires=1767133808&token=cd2712e39d1a25f1efc82d41e41981b147f95d51e029ea323eabf19e93ac0fc1
+#EXTINF:-1 tvg-id="nba.pelicans.bulls" tvg-logo="https://vp-txpro.com/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Pelicans vs Bulls 8AM
+https://cdn5.ggfiles.cfd/live/cdn5/chunks.m3u8
 
+#EXTINF:-1 tvg-id="nba.knicks.spurs" tvg-logo="https://vp-txpro.com/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Knicks vs Spurs 8AM
+https://cdn6.ggfiles.cfd/live/cdn6/chunks.m3u8
 
+#EXTINF:-1 tvg-id="nba.nuggets.raptors" tvg-logo="https://vp-txpro.com/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Nuggets vs Raptors 830AM
+https://cdn7.ggfiles.cfd/live/cdn7/chunks.m3u8
 
-#EXTINF:-1 tvg-id="nba.76ers.grizzlies" tvg-logo="https://api.ppv.to/assets/thumb/98b6353e84bff14e57e94878f186d32a-thumbnail.jpg" group-title="NBA Live",76ers vs Grizzlies 9AM
-https://gg.poocloud.in/memphisgrizzlies/index.m3u8
+#EXTINF:-1 tvg-id="nba.wizards.bucks" tvg-logo="https://vp-txpro.com/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Wizards vs Bucks 9PM
+https://cdn8.ggfiles.cfd/live/cdn8/playlist.m3u8?expires=1767222483&token=a6a43b690ca3b1003a8342d38a2ea6fc50928f4683102fd76b0ce189f7c42dd1
 
-#EXTINF:-1 tvg-id="nba.celtics.jazz" tvg-logo="https://api.ppv.to/assets/thumb/f4ae2b877e18a7b6eada3d49c60a0101-thumbnail.jpg" group-title="NBA Live",Celtics vs Jazz 10AM
-https://gg.poocloud.in/utahjazz/index.m3u8
-
-#EXTINF:-1 tvg-id="nba.pistons.lakers" tvg-logo="https://api.ppv.to/assets/thumb/58be4796a4cffeda7b76d8c8830092aa-thumbnail.jpg" group-title="NBA Live",Pistons vs Lakers 1130AM
-https://gg.poocloud.in/losangeleslakers/index.m3u8
-
-#EXTINF:-1 tvg-id="nba.kings.clippers" tvg-logo="https://api.ppv.to/assets/thumb/22997a984d271beebf82f778aeb73829-thumbnail.jpg" group-title="NBA Live",Kings vs Clippers 12PM
-https://gg.poocloud.in/laclippers/index.m3u8
+#EXTINF:-1 tvg-id="nba.blazers.thunder" tvg-logo="https://vp-txpro.com/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Blazers vs Thunder 9PM
+https://cdn9.ggfiles.cfd/live/cdn9/playlist.m3u8?expires=1767222551&token=0ef4f91c54026debe15d1ccc8c97b9fa42306f3fb147698c742a035a25bcc809
