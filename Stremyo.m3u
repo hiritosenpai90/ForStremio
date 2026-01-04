@@ -1,29 +1,49 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Minnesota Timberwolves vs. Miami Heat 6AM
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Detroit Pistons vs. Cleveland Cavaliers 3AM
+https://cdn10.rikcdn.cfd/live/cdn10/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Indiana Pacers vs. Orlando Magic 4AM
+https://cdn11.rikcdn.cfd/live/cdn11/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Denver Nuggets vs. Brooklyn Nets 4:30AM
+https://cdn11.rikcdn.cfd/live/cdn11/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",New Orleans Pelicans vs. Miami Heat 7AM
+https://cdn10.rikcdn.cfd/live/cdn10/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Minnesota Timberwolves vs. Washington Wizards 7AM
+https://cdn11.rikcdn.cfd/live/cdn11/chunks.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Oklahoma City Thunder vs. Phoenix Suns 9AM
 https://cdn3.rikcdn.cfd/live/cdn3/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Philadelphia 76ers vs. New York Knicks 8:30AM
-https://cdn5.rikcdn.cfd/live/cdn5/playlist.m3u8?expires=1767480667&token=c363956ef9e3d69596f6c6f5c08ffec94f0c1a69f098b251ecfb3d5a16584e72
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Milwaukee Bucks vs. Sacramento Kings 10AM
+https://cdn10.rikcdn.cfd/live/cdn10/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Atlanta Hawks vs. Toronto Raptors 8:30AM
-https://cdn4.rikcdn.cfd/live/cdn4/playlist.m3u8?expires=1767480562&token=3e565e04d2eab07726f41d6c713e771ac7a9e97193624a017e6109bb33a5a79a
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Charlotte Hornets vs. Chicago Bulls 9AM
-https://cdn6.rikcdn.cfd/live/cdn6/playlist.m3u8?expires=1767480763&token=98556bb1537f7fa9201707722a439e8b0bb75aafcec2837e9e3447efdc496f9b
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Portland Trail Blazers vs. San Antonio Spurs 9AM
-https://cdn7.rikcdn.cfd/live/cdn7/playlist.m3u8?expires=1767480804&token=03970fc3c931dd1f0f7e6592a0c0f3eb2940a34fabdd735457b2aea78c4c1e51
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Houston Rockets vs. Dallas Mavericks 9:30AM
-https://cdn8.rikcdn.cfd/live/cdn8/playlist.m3u8?expires=1767480859&token=26391db2f7dbc4bc02ceab5885b0c9040d09a5e9de6d955ad5ef9300ad16d528
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Utah Jazz vs. Golden State Warriors 11AM
-https://cdn9.rikcdn.cfd/live/cdn9/playlist.m3u8?expires=1767480876&token=2da31a1830ae7d262ad4b006616d0ff4528edb7fb8bebafa858a6312e7b3d402
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Boston Celtics vs. Los Angeles Clippers 11:30AM
-https://cdn10.rikcdn.cfd/live/cdn10/playlist.m3u8?expires=1767480963&token=dcf014522ea19ed37918115a2215bcc8601cf481e5efc2815306f79ea403693f
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Memphis Grizzlies vs. Los Angeles Lakers 10:30AM
+https://cdn11.rikcdn.cfd/live/cdn11/chunks.m3u8
 
 
 
 
+
+
+#EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-logo="https://i.imgur.com/fRETRXx.png" group-title="PH HayabusaTV",Kapamilya Channel
+https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/index.mpd
+
+#EXTINF:-1 tvg-id="1093" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126306082.png" group-title="PH HayabusaTV",GMA 7
+https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8
+
+
+#EXTINF:-1 group-title="US Cable Channels" tvg-id="Crave1.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" tvg-name="CRAVE 1", CRAVE 1
+https://fl1.moveonjoy.com/CRAVE_1/index.m3u8
+
+#EXTINF:-1 group-title="US Cable Channels" tvg-id="Crave2.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 2", CRAVE 2 
+https://fl1.moveonjoy.com/CRAVE_2/index.m3u8
+
+#EXTINF:-1 group-title="US Cable Channels" tvg-id="Crave3.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" tvg-name="CRAVE 3", CRAVE 3
+https://fl1.moveonjoy.com/CRAVE_3/index.m3u8
+
+#EXTINF:-1 group-title="US Cable Channels" tvg-id="Crave4.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4", CRAVE 4
+https://fl1.moveonjoy.com/CRAVE_4/index.m3u8
