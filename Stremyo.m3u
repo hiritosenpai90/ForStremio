@@ -1,40 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Toronto Raptors vs. Charlotte Hornets 8AM
-https://cdn1.hkfile.cfd/live/cdn1/playlist.m3u8?expires=1767828179&token=defac716d0ae2d17a6e67ceaa87bcef08c507384d256d81135f369709f33453e
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Indiana Pacers vs. Charlotte Hornets 8AM
+https://cdn2.hkfile.cfd/live/cdn2/playlist.m3u8?expires=1767912717&token=51409025dc5780e7784b58f6a9226388856b67ee494a2b18ac5fa2d2f2888b1e
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Chicago Bulls vs. Detroit Pistons 8AM
-https://cdn2.hkfile.cfd/live/cdn2/playlist.m3u8?expires=1767828201&token=26ad93383a2da0a17832e326d73fbaa101a12043d57a8dcba3d4a8f2712c60c2
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Miami Heat vs. Chicago Bulls 9AM
+https://cdn4.hkfile.cfd/live/cdn4/playlist.m3u8?expires=1767912759&token=b169f83d9093d2f43f16080484dfbcf39c98e9d5328a84ec6a022b1acf1d83ca
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Washington Wizards vs. Philadelphia 76ers 8AM
-https://cdn3.hkfile.cfd/live/cdn3/playlist.m3u8?expires=1767828218&token=a3c01ebbfeec6c5ab809acfc6271a812f210395a4d83b3f842e490c4561dca6e
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Cleveland Cavaliers vs. Minnesota Timberwolves 9AM
+https://cdn3.hkfile.cfd/live/cdn3/playlist.m3u8?expires=1767912734&token=d29a778e96021ed195ecaff7e0fa5171c2ad87637fb612737d3fe3294aba59df
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Denver Nuggets vs. Boston Celtics 8AM
-https://cdn4.hkfile.cfd/live/cdn4/playlist.m3u8?expires=1767828233&token=32028bfd42675760a432c42d394a88299d8eb6232abd047009b431534fb2c855
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Dallas Mavericks vs. Utah Jazz 10AM
+https://cdn5.hkfile.cfd/live/cdn5/playlist.m3u8?expires=1767912774&token=c36eb19bdbf6e76c7052b3d63425ba19bdaea186740d262bc029a0d1c0c1fa97
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",New Orleans Pelicans vs. Atlanta Hawks 8:30AM
-https://cdn5.hkfile.cfd/live/cdn5/playlist.m3u8?expires=1767828314&token=d6ca2930900e0d639919834846c41921d5fdb80c09f73bef2939b42768f43b94
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Orlando Magic vs. Brooklyn Nets 8:30AM
-https://cdn6.hkfile.cfd/live/cdn6/playlist.m3u8?expires=1767828329&token=e36859683a884e179edda3ea1dc2e9a3f892e4d1aaef09533fd254f10c354a66
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Los Angeles Clippers vs. New York Knicks 8:30AM
-https://cdn7.hkfile.cfd/live/cdn7/chunks.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Phoenix Suns vs. Memphis Grizzlies 9AM
-https://cdn8.hkfile.cfd/live/cdn8/playlist.m3u8?expires=1767828367&token=e1282f45f76e407a224186671931f40495c94bbb605138bc40e45a5526702290
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Utah Jazz vs. Oklahoma City Thunder 9AM
-https://cdn9.hkfile.cfd/live/cdn9/playlist.m3u8?expires=1767828391&token=dfa41eb516cdc29d6e4968aff1831dec044b1b0fe9a33ac2489f88b28f282598
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Los Angeles Lakers vs. San Antonio Spurs 10:30AM
-https://cdn10.hkfile.cfd/live/cdn10/playlist.m3u8?expires=1767828406&token=81f27d0e77ddaa1e84b652f8314b206ba1362792a58865c356cd7f2811211231
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Milwaukee Bucks vs. Golden State Warriors 11AM
-https://cdn2.hkfile.cfd/live/cdn2/playlist.m3u8?expires=1767828429&token=bf56fa67e6d32310382796beabd6b980dea05450ea97456cdd8d2827d8d91133
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Houston Rockets vs. Portland Trail Blazers 11AM
-https://cdn1.hkfile.cfd/live/cdn1/playlist.m3u8?expires=1767828445&token=2b55f3f400aff0b878188a2b56fc419c57c7191768839ab88f2bdee858d56cff
 
 
 
@@ -43,6 +21,13 @@ https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/in
 
 #EXTINF:-1 tvg-id="1093" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126306082.png" group-title="PH HayabusaTV",GMA 7
 https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="PH HayabusaTV", TV5
+http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Boh0xOsaoSFLqA0PEh9gVjiytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001213&contentid=ch00000000000000001213&videoid=ch00000090990000001088&recommendtype=0&userid=1150006064464&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=J62NMXIGLTMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="phcathenatv/pbarush" tvg-logo="https://i.imgur.com/tvxCVRr.png" group-title="PH HayabusaTV",PBA RUSH
+http://103.244.145.15/live/anita123/anita123/150967.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
+
 
 
 
