@@ -1,17 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Indiana Pacers vs. Charlotte Hornets 8AM
-https://cdn2.hkfile.cfd/live/cdn2/playlist.m3u8?expires=1767912717&token=51409025dc5780e7784b58f6a9226388856b67ee494a2b18ac5fa2d2f2888b1e
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Minnesota Timberwolves vs. Cleveland Cavaliers 2AM
+https://cdn3.hkfile.cfd/live/cdn3/playlist.m3u8?expires=1768065000&token=cae3fc804f4190173924e5c328b1081789014dd0f4daa15a1876d15cca022811
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Miami Heat vs. Chicago Bulls 9AM
-https://cdn4.hkfile.cfd/live/cdn4/playlist.m3u8?expires=1767912759&token=b169f83d9093d2f43f16080484dfbcf39c98e9d5328a84ec6a022b1acf1d83ca
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Miami Heat vs. Indiana Pacers 8AM
+https://cdn3.hkfile.cfd/live/cdn3/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Cleveland Cavaliers vs. Minnesota Timberwolves 9AM
-https://cdn3.hkfile.cfd/live/cdn3/playlist.m3u8?expires=1767912734&token=d29a778e96021ed195ecaff7e0fa5171c2ad87637fb612737d3fe3294aba59df
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Los Angeles Clippers vs. Detroit Pistons 8:30AM
+https://cdn4.hkfile.cfd/live/cdn4/playlist.m3u8?expires=1768083237&token=70a41bb87d2271a1ad3742da8840d69263efe95ac07b2ef602df70044a946373
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Dallas Mavericks vs. Utah Jazz 10AM
-https://cdn5.hkfile.cfd/live/cdn5/playlist.m3u8?expires=1767912774&token=c36eb19bdbf6e76c7052b3d63425ba19bdaea186740d262bc029a0d1c0c1fa97
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",San Antonio Spurs vs. Boston Celtics 9AM
+https://cdn5.hkfile.cfd/live/cdn5/playlist.m3u8?expires=1768083262&token=8749dcb3a38b39ab99f936aa7c6c841d609c14e05be438d58e571302ed5ffc61
 
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Dallas Mavericks vs. Chicago Bulls 9AM
+https://cdn6.hkfile.cfd/live/cdn6/playlist.m3u8?expires=1768083285&token=2fb49245c368ea63e54f77850dc01e286d4ff79d18b4187d4d6ffdff1619466e
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA Live",Charlotte Hornets vs. Utah Jazz 10:30AM
+https://cdn7.hkfile.cfd/live/cdn7/playlist.m3u8?expires=1768083299&token=2b3e1851a7b500b9fba05c8cefd7b58acfce13362e262f4243a9fc7372386b47
 
 
 
@@ -25,8 +30,13 @@ https://gsattv.akamaized.net/live/media0/gma7/Fairplay/gma7.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/7/7a/TV5_HD_Logo_2024.png/revision/latest/scale-to-width-down/290?cb=20240202141126" group-title="PH HayabusaTV", TV5
 http://136.239.158.30:6610/001/2/ch00000090990000001088/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Boh0xOsaoSFLqA0PEh9gVjiytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001213&contentid=ch00000000000000001213&videoid=ch00000090990000001088&recommendtype=0&userid=1150006064464&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=J62NMXIGLTMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="phcathenatv/pbarush" tvg-logo="https://i.imgur.com/tvxCVRr.png" group-title="PH HayabusaTV",PBA RUSH
-http://103.244.145.15/live/anita123/anita123/150967.m3u8?token=ShJcU0BbQQNHWwZaVQUMWghUVlMHAV1RCQYGD1QCBQEDUwYABVABCFcbGBpEF0dcWF1vWQIXXlAEU1ICV0gRR0JVRm1aV0EDRwwBCQZaBxsVEkRZC1BGWwFOQEcMABEIX0VYXh8RBkERXEZWVg9qXVxGWVMDF14PRA4OG0cLXW1VVVlTXVdBA0cIFhQVCkZJGwpeRQpZSENTCxZFBBBWEAteQV5fH0FaCkxaTEUaFwMbYHgSShcBGUUHDEQMC10QCxJZAUYLQRVHUEdnRQZGTUtVUV0DR0ZbE1JAG0cJUkpuU1tcXVYATQxWWksVWRcIGxwSXQlbDRVeED1HDAARCF9FWF5O
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e5IZsv3.png" group-title="PH HayabusaTV", Celestial Movies Pinoy	
+http://136.239.159.20:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHUpvQtyXgWxpVCozt4hcgytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=1863800460286&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EJ21Z5961VKXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/5/5a/One_Sports_%28TV_channel%29_3D_Logo_2020.png/revision/latest?cb=20230520142737" group-title="PH HayabusaTV", One Sports
+http://136.239.158.18:6610/001/2/ch00000090990000001083/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpiZhzOAmsfItUIS2UHXxD0ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001173&contentid=ch00000000000000001173&videoid=ch00000090990000001083&recommendtype=0&userid=1797679327850&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RCAJM4IFILAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+
 
 
 
