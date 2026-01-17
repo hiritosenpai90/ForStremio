@@ -1,22 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/fa6e5f58424bf40ecf6e3a1b7fc51dc8-thumbnail.jpg" group-title="NBA Live",8AM New Orleans Pelicans vs. Indiana Pacers
+
+#EXTINF:-1 tvg-id="NBA.Pelicans.Pacers" tvg-name="Pelicans vs Pacers" tvg-logo="https://api.ppv.to/assets/thumb/fa6e5f58424bf40ecf6e3a1b7fc51dc8-thumbnail.jpg" group-title="NBA Live",Pelicans vs Pacers (8AM)
 https://cdn1.hkfile.cfd/live/cdn1/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a23448684b06f639cb3a7208d015bf66-thumbnail.jpg" group-title="NBA Live",8AM Cleveland Cavaliers vs. Philadelphia 76ers
+#EXTINF:-1 tvg-id="NBA.Cavs.76ers" tvg-name="Cavaliers vs 76ers" tvg-logo="https://api.ppv.to/assets/thumb/a23448684b06f639cb3a7208d015bf66-thumbnail.jpg" group-title="NBA Live",Cavaliers vs 76ers (8AM)
 https://cdn2.hkfile.cfd/live/cdn2/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9ed69e60a903fcabd527968fbf72a2e8-thumbnail.jpg" group-title="NBA Live",8:30AM Chicago Bulls vs. Brooklyn Nets
+#EXTINF:-1 tvg-id="NBA.Bulls.Nets" tvg-name="Bulls vs Nets" tvg-logo="https://api.ppv.to/assets/thumb/9ed69e60a903fcabd527968fbf72a2e8-thumbnail.jpg" group-title="NBA Live",Bulls vs Nets (8:30AM)
 https://cdn3.hkfile.cfd/live/cdn3/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5db6335b70f97d9fcaf9bc0d7027192e-thumbnail.jpg" group-title="NBA Live",8:30AM LA Clippers vs. Toronto Raptors
+#EXTINF:-1 tvg-id="NBA.Clippers.Raptors" tvg-name="Clippers vs Raptors" tvg-logo="https://api.ppv.to/assets/thumb/5db6335b70f97d9fcaf9bc0d7027192e-thumbnail.jpg" group-title="NBA Live",Clippers vs Raptors (8:30AM)
 https://cdn4.hkfile.cfd/live/cdn4/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a9966b2b8bc7a4e41135c579552b1c85-thumbnail.jpg" group-title="NBA Live",10:30AM Minnesota Timberwolves vs. Houston Rockets
+#EXTINF:-1 tvg-id="NBA.Timberwolves.Rockets" tvg-name="Timberwolves vs Rockets" tvg-logo="https://api.ppv.to/assets/thumb/a9966b2b8bc7a4e41135c579552b1c85-thumbnail.jpg" group-title="NBA Live",Timberwolves vs Rockets (10:30AM)
 https://cdn5.hkfile.cfd/live/cdn5/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a44de545b635dd225a2d31ae4f204583-thumbnail.jpg" group-title="NBA Live",11AM Washington Wizards vs. Sacramento Kings
+#EXTINF:-1 tvg-id="NBA.Wizards.Kings" tvg-name="Wizards vs Kings" tvg-logo="https://api.ppv.to/assets/thumb/a44de545b635dd225a2d31ae4f204583-thumbnail.jpg" group-title="NBA Live",Wizards vs Kings (11AM)
 https://cdn6.hkfile.cfd/live/cdn6/chunks.m3u8
-
 
 
 
