@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b39f75015720bee071b6f54aeb68abfb-thumbnail.jpg" group-title="NBA Live (Source 1)",8AM Brooklyn Nets vs. Chicago Bulls
 https://cdn3.hkfile.cfd/live/cdn3/chunks.m3u8
@@ -15,34 +14,6 @@ https://cdn6.hkfile.cfd/live/cdn6/chunks.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/731fe91d62e23e80950913e2bdbc4d01-thumbnail.jpg" group-title="NBA Live (Source 1)",10:30AM Toronto Raptors vs. Los Angeles Lakers
 https://cdn7.hkfile.cfd/live/cdn7/chunks.m3u8
 
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Brooklyn-Nets-Logo.svg" group-title="NBA Live (Source 2)",Brooklyn Nets vs Chicago Bulls 8AM
-#EXTVLCOPT:http-origin=https://streamingonembed.pro
-#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
-https://indiasmellsverybad.xyz/live/brooklyn-nets-vs-chicago-bulls720p/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/New-Orleans-Pelicans-Logo.svg" group-title="NBA Live (Source 2)",New Orleans Pelicans vs Houston Rockets 8AM
-#EXTVLCOPT:http-origin=https://streamingonembed.pro
-#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
-https://indiasmellsverybad.xyz/live/new-orleans-pelicans-vs-houston-rockets720p/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Charlotte-Hornets-Logo.svg" group-title="NBA Live (Source 2)",Charlotte Hornets vs Denver Nuggets 9AM
-#EXTVLCOPT:http-origin=https://streamingonembed.pro
-#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
-https://indiasmellsverybad.xyz/live/charlotte-hornets-vs-denver-nuggets720p/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Portland-Trail-Blazers-Logo.svg" group-title="NBA Live (Source 2)",Portland Trail Blazers vs Sacramento Kings 10AM
-#EXTVLCOPT:http-origin=https://streamingonembed.pro
-#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
-https://indiasmellsverybad.xyz/live/portland-trail-blazers-vs-sacramento-kings720p/index.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://nbawebcast.top/wp-content/uploads/2025/11/Toronto-Raptors-Logo.svg" group-title="NBA Live (Source 2)",Toronto Raptors vs Los Angeles Lakers 10:30AM
-#EXTVLCOPT:http-origin=https://streamingonembed.pro
-#EXTVLCOPT:http-referrer=https://streamingonembed.pro/
-https://indiasmellsverybad.xyz/live/toronto-raptors-vs-los-angeles-lakers720p/index.m3u8
 
 
 
