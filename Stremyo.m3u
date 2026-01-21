@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/49795b41354266abcd87a18d570d466a-thumbnail.jpg" group-title="NBA Live (Source 1)",8AM Cleveland Cavaliers vs. Charlotte Hornets
+https://strm.poocloud.in/secure/WmDfiZLuNtGRAftRZcVzxpjzdivTjapE/1769032800/1769057280/charlottehornets/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/56e4c5582a9776a9358f676667ab757a-thumbnail.jpg" group-title="NBA Live (Source 1)",8:30AM Indiana Pacers vs. Boston Celtics
+https://strm.poocloud.in/secure/ApdCdhBGdGzzpxsrHenCLEpcbTAPhxcy/1769034600/1769059080/bostonceltics/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9842b908b19fc7be8bf8cd6d8020c996-thumbnail.jpg" group-title="NBA Live (Source 1)",8:30AM Brooklyn Nets vs. New York Knicks
+https://strm.poocloud.in/secure/xMrPfcTJRfsBaoZDxrwwIHnMYZEHnQAV/1769034600/1769059080/newyorkknicks/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ddaa77d31b96ff68fc032385302c3915-thumbnail.jpg" group-title="NBA Live (Source 1)",9AM Atlanta Hawks vs. Memphis Grizzlies
+https://strm.poocloud.in/secure/GnTiHOvwyNkvRLPmZKtlOjzQuytIdqUW/1769036400/1769060880/memphisgrizzlies/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/da8190ce3b1b24092e67d63696a3349b-thumbnail.jpg" group-title="NBA Live (Source 1)",9AM Detroit Pistons vs. New Orleans Pelicans
+https://strm.poocloud.in/secure/bsmDHbWFXNsynAFUARDWPoQZVrzapulF/1769036400/1769060880/neworleanspelicans/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/0bffc5e7f3d7a6a633aa5191c4a92681-thumbnail.jpg" group-title="NBA Live (Source 1)",10:30AM Oklahoma City Thunder vs. Milwaukee Bucks
+https://strm.poocloud.in/secure/dCDJnYDoYBlTxjbbrJsqhEWCnnBTDmzR/1769041800/1769066280/milwaukeebucks/index.m3u8
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a1e14c7316b713035503bbe1deed1d6c-thumbnail.jpg" group-title="NBA Live (Source 1)",11AM Toronto Raptors vs. Sacramento Kings
+https://strm.poocloud.in/secure/RpJfeAKWTLdnMdvhToIfBDoNZBIMgRIV/1769043600/1769068080/sacramentokings/index.m3u8
+
+
+
+
+
+#EXTM3U
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/49795b41354266abcd87a18d570d466a-thumbnail.jpg" group-title="NBA Live Today",8AM Cavaliers vs. Hornets
 https://cdn1.hkfile.cfd/live/cdn1/playlist.m3u8?expires=1769037410&token=40e76d4df1d1e7edcd4209040a47e285a7481d296c8538970bd5e193f0edcf65
 
