@@ -1,11 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://images.daznservices.com/di/library/DAZN_News/99/e8/jose-tito-sanchez-vs-jesus-ramirez-rubio_185vdh2y3uf371vnpsad80r977.jpg?t=-1828651573" group-title="BOXING Live",8AM Jose Tito Sanchez vs Jesus Ramirez Rubio
-https://cdn10.fkfiles.cfd/live/cdn10/playlist.m3u8?expires=1769211247&token=ed726ad240b582a892ef74619eb5e51e07cf18694487d58e1517f3dd61d938fa
-
-
-
-
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/f773164b5cb21e09816087a2de006683-thumbnail.jpg" group-title="COMBATSPORTS Live(Source 1)",6AM Zuffa Boxing 01
 https://cdn1.fkfiles.cfd/live/cdn1/playlist.m3u8?expires=1769208348&token=46b176f96efc1dfab5baff9b8c3daefcac4655a865b4d8bb79380f001da4b750
 
