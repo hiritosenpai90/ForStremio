@@ -11,10 +11,7 @@ https://cdn12.fkfiles.cfd/live/cdn12/playlist.m3u8?expires=1769284820&token=87e6
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/bd2f66767d050fd3ee9377f5b23974bc-thumbnail.jpg" group-title="NBA Live",4AM Knicks vs. 76ers
-https://cdn7.fkfiles.cfd/live/cdn7/playlist.m3u8?expires=1769284658&token=72d550eabc3c847da640c337c5b1fb559259b830bdbe51d13558074ad2abecea
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/83f8ec7dc39d174248b0debd03133382-thumbnail.jpg" group-title="NBA Live",6:30AM Warriors vs. Timberwolves
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/83f8ec7dc39d174248b0debd03133382-thumbnail.jpg" group-title="NBA Live",(POSTPONED) Warriors vs. Timberwolves
 https://cdn7.fkfiles.cfd/live/cdn7/playlist.m3u8?expires=1769284676&token=f9bedbb2e79afc84d8bd3411491c708bbbc12b59e23a24af41d2b03a148a24e3
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/edac5d6064e02973e968c3e224ce1810-thumbnail.jpg" group-title="NBA Live",8AM Cavaliers vs. Magic
