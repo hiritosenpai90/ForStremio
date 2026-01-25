@@ -2,14 +2,8 @@
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d154402f432220ad0945d5a6bf248787-thumbnail.jpg" group-title="NBA Live (Source 1)",4AM Kings vs. Pistons
 https://cdn3.fkfiles.cfd/live/cdn3/playlist.m3u8?expires=1769370748&token=bec6d64175be649bc46bb5bbcb7a1dd23f80552178ef0fac235e5d6ff11ddda2
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/3e760184623bd43d0f862505a624942e-thumbnail.jpg" group-title="NBA Live (Source 1)",4:30AM Nuggets vs. Grizzlies
-https://cdn4.fkfiles.cfd/live/cdn4/playlist.m3u8?expires=1769370810&token=4fa64b0858ad72982b8c0b8171d6e377c5de405c4bb18c81c31b5531030d0001
-
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/83f8ec7dc39d174248b0debd03133382-thumbnail.jpg" group-title="NBA Live (Source 1)",6:30AM Warriors vs. Timberwolves
 https://cdn5.fkfiles.cfd/live/cdn5/playlist.m3u8?expires=1769370827&token=7dab85598f842bec570f86a2b57d435c76b380f20dfe5f04e4e7c2a9ffaa49ac
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a71c935bae7c13b2a7785eb830442390-thumbnail.jpg" group-title="NBA Live (Source 1)",8AM Mavericks vs. Bucks
-https://cdn6.fkfiles.cfd/live/cdn6/playlist.m3u8?expires=1769370847&token=465724136234e44a139466e95c74bf2e6ebf7b4692fd8e95e45ea2abcea3969f
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/28b7ebe42f720b83118f8e691fbd3965-thumbnail.jpg" group-title="NBA Live (Source 1)",8AM Raptors vs. Thunder
 https://cdn7.fkfiles.cfd/live/cdn7/playlist.m3u8?expires=1769370866&token=4a7bd9b09c571b896556588e58296973ed0acb144e5a730b35b51b16abde2d9f
