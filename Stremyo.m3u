@@ -1,23 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/28b7ebe42f720b83118f8e691fbd3965-thumbnail.jpg" group-title="NBA Live (Source 1)",8AM Raptors vs. Thunder
-https://cdn7.fkfiles.cfd/live/cdn7/playlist.m3u8?expires=1769370866&token=4a7bd9b09c571b896556588e58296973ed0acb144e5a730b35b51b16abde2d9f
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9f15ba40fd62e41ec36054e23839a938-thumbnail.jpg" group-title="NBA Live (Source 1)",8AM Pelicans vs. Spurs
-https://cdn8.fkfiles.cfd/live/cdn8/playlist.m3u8?expires=1769370955&token=e0fc2ae2bf1cf96e2d49c0141e366234d9acf110003b280086c318aae90c6930
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/1e051745b6ce15100db1579aecc2a5af-thumbnail.jpg" group-title="NBA Live (Source 1)",9AM Heat vs. Suns
-https://cdn9.fkfiles.cfd/live/cdn9/playlist.m3u8?expires=1769370977&token=878354284d77816050627eb61af645be3a97f525e45187a8b4732fb7575f53ef
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/450ab496b60b91e8e55b34f3782348bd-thumbnail.jpg" group-title="NBA Live (Source 1)",10AM Nets vs. Clippers
-https://cdn10.fkfiles.cfd/live/cdn10/playlist.m3u8?expires=1769370996&token=1f5fe360ea9e4c554930bc7676d447b5f8b1c6fa807de71b16361c40f928532c
-
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/e1bec80a304f446669c091510cadc600-thumbnail.jpg" group-title="NBA Live (Source 1)",4AM 76ers vs. Hornets
+https://cdn2.fkfiles.cfd/live/cdn2/chunks.m3u8
 
 
 
 
 
 #EXTM3U
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Converge", GMA 7
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
