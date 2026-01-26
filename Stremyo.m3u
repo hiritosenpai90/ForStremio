@@ -1,4 +1,26 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5d59e0007b595adca0a1cc222d0c02a1-thumbnail.jpg" group-title="NBA Live (Source 1)",8AM Magic vs. Cavaliers
+https://cdn1.fkfiles.cfd/live/cdn1/playlist.m3u8?expires=1769470605&token=54d90408abec68cc840377068d905843f40025ff118d484f65a630b7d0c54181
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6cd6d94bb7bd8db6a434d263b640b452-thumbnail.jpg" group-title="NBA Live (Source 1)",9AM Trail Blazers vs. Celtics
+https://cdn4.fkfiles.cfd/live/cdn4/playlist.m3u8?expires=1769470627&token=c7b1e2613ceb607ae0f8e5c4f12170eb0457bd6a41e3fb8b3be8158500dc3dc4
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/3240baba79f6687b2c7d4dc622997494-thumbnail.jpg" group-title="NBA Live (Source 1)",9AM Lakers vs. Bulls
+https://cdn2.fkfiles.cfd/live/cdn2/playlist.m3u8?expires=1769470641&token=d603679b09794b4e66ed9ff95fdef36c4058fcae2b4d882445f3f65b31841cd4
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6fd8b222b0f1634bb01cfb5a64a4bef1-thumbnail.jpg" group-title="NBA Live (Source 1)",9AM Grizzlies vs. Rockets
+https://cdn3.fkfiles.cfd/live/cdn3/playlist.m3u8?expires=1769470660&token=2b911c00491d2322bf63304421cf171d6d2cb86860a1226314e430ffbcb3d134
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/83f8ec7dc39d174248b0debd03133382-thumbnail.jpg" group-title="NBA Live (Source 1)",10:30AM Warriors vs. Timberwolves
+https://cdn5.fkfiles.cfd/live/cdn5/playlist.m3u8?expires=1769470677&token=b49a89e65820f5742cc7e4886b4203a03c831cae747a20145f8c24f5e3e5282a
+
+
+
+
+
+
+#EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="Converge", GMA 7
 http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoLvT86fM74ocVChyFS93HUytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1084724632836&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=FGE3OISG4KGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
