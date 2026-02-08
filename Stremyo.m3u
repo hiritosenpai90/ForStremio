@@ -1,15 +1,16 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f85013e2f3763a87c3edb8944639745a-thumbnail.jpg" group-title="NBA Live Feb9(S1)",1:30AM Knicks vs Celtics
-https://cdn4.bnfiles.cfd/live/cdn4/chunks.m3u8
+https://cdn4.bnfiles.cfd/live/cdn4/playlist.m3u8?expires=1770572871&token=5d1649207f331961c7afc47f607e2b4b29f17a28696dad3a72a8859ecd510615
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/83d5cb57054be47a1f0b2c2618ed74e7-thumbnail.jpg" group-title="NBA Live Feb9(S1)",3AM Heat vs Wizards
-https://cdn2.bnfiles.cfd/live/cdn2/chunks.m3u8
+https://cdn5.bnfiles.cfd/live/cdn5/playlist.m3u8?expires=1770573344&token=46b4f7ab1dfde962db20b89e65601b06acd2182eb87537d85b05c3fb423457df
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/dd93ca925c960cecc978b5e752ff88a8-thumbnail.jpg" group-title="NBA Live Feb9(S1)",4AM Pacers vs Raptors
-https://cdn3.bnfiles.cfd/live/cdn3/chunks.m3u8
+https://cdn7.bnfiles.cfd/live/cdn7/playlist.m3u8?expires=1770573368&token=347e51cd432baafedf11a8710361c2226b88e8d1cdc1e1919f2cefe48acd6394
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/64191a6b3a7e194c1410ae0762041f67-thumbnail.jpg" group-title="NBA Live Feb9(S1)",4AM Clippers vs Timberwolves
-https://cdn4.bnfiles.cfd/live/cdn4/chunks.m3u8
+https://cdn6.bnfiles.cfd/live/cdn6/playlist.m3u8?expires=1770573389&token=98469aecd3142683c5d31983e01ca075643c78229bd382ea13e5d39d813a80b1
+
 
 
 
