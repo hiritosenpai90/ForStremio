@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/20419b63ad3a7326eff38188058eb52d-thumbnail.jpg" group-title="NBA Live Feb15(S1)",2PM ET OKTAGON 84 (English)
-https://cdn5.ncfiles.cfd/live/cdn5/playlist.m3u8?expires=1771109374&token=83e956225b06bdf0bbec4bc3699b6512ac6a60c290e8108cda1957841e1f36e7
-
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/84cafaf67fa54deefce2fd3e8f74f28c-thumbnail.jpg" group-title="NBA Live Feb15(S1)",5PM ET NBA All-Star Saturday Night
 https://cdn1.ncfiles.cfd/live/cdn1/playlist.m3u8?expires=1771107229&token=61e759515bd64d51f5c37d8ba36a2813115019974b678d6bd774a6fa2b04ce78
 
