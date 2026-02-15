@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/84cafaf67fa54deefce2fd3e8f74f28c-thumbnail.jpg" group-title="NBA Live Feb15(S1)",5PM ET NBA All-Star Saturday Night
-https://cdn1.ncfiles.cfd/live/cdn1/playlist.m3u8?expires=1771107229&token=61e759515bd64d51f5c37d8ba36a2813115019974b678d6bd774a6fa2b04ce78
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6119ab0af41e7822091ccc24bd1b2239-thumbnail.jpg" group-title="NBA Live Feb16(S1)",6AM 75th NBA All-Star Game
+https://cdn1.ncfiles.cfd/live/cdn1/playlist.m3u8?expires=1771192408&token=7731b2103cc56be0805f6632d0cd4184b4844a9471e3046d9cd05283dfce64c5
 
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/2648490806f1849768a886b4cf21df80-thumbnail.jpg" group-title="COMBAT SPORTS Live Feb16(S1)",6:30AM Zuffa Boxing 03
+https://cdn2.ncfiles.cfd/live/cdn2/playlist.m3u8?expires=1771194820&token=099886cd27ca3e959c9efb9b32d99a0651da31ff52cc4ede8346baeff9c27fff
 
 
 
