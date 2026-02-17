@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6119ab0af41e7822091ccc24bd1b2239-thumbnail.jpg" group-title="NBA Live Feb17(S1)",NBA RESUMES FEB 20
-https://cdn1.ncfiles.cfd/live/cdn1/playlist.m3u8?expires=1771192408&token=7731b2103cc56be0805f6632d0cd4184b4844a9471e3046d9cd05283dfce64c5
-
-
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/6119ab0af41e7822091ccc24bd1b2239-thumbnail.jpg" group-title="NBA Live Feb18(S1)",NBA RESUMES FEB 20
+https://cdn1.ncfiles.cfd/live/cdn1/chunks.m3u8
 
 
 
