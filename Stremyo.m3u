@@ -1,4 +1,36 @@
-https://i.imgur.com/gZmGBZE.jpg
+#EXTM3U
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb22(S1)",6AM Orlando Magic vs Phoenix Suns
+https://cdn5.zafiles.cfd/live/cdn5/playlist.m3u8?expires=1771709649&token=19a9f7cb45d941cb678930e12799358b93b04534746a75b6a279faf1a9ab3766
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb22(S1)",8AM Philadelphia 76ers vs New Orleans Pelicans
+https://cdn6.zafiles.cfd/live/cdn6/playlist.m3u8?expires=1771709675&token=5622e75bf3ad197f82de7e010f89e5c6ede265ec9c3f3008a3a648b28e97c8fd
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb22(S1)",9AM Memphis Grizzlies vs Miami Heat
+https://cdn9.zafiles.cfd/live/cdn9/playlist.m3u8?expires=1771709696&token=9931eaefb501044904b09d76b8dc56f8da9953acc29055f0e3e9c2ca8eec73c3
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb22(S1)",9AM Detroit Pistons vs Chicago Bulls
+https://cdn7.zafiles.cfd/live/cdn7/playlist.m3u8?expires=1771709712&token=7d6891ce753e166162f1a0f6a26ec66fd2f909b4765d3e9bba18f0d26b6b5103
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb22(S1)",9AM Sacramento Kings vs San Antonio Spurs
+https://cdn8.zafiles.cfd/live/cdn8/playlist.m3u8?expires=1771709728&token=e55557e4d20bacdb3324492d7bd1913d6e0f975d2592a7032b0e21254adf5bbb
+
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb22(S1)",9AM Houston Rockets vs New York Knicks
+https://cdn10.zafiles.cfd/live/cdn10/playlist.m3u8?expires=1771709741&token=20fb1a3e97eea32866477e2dc85a3fbcc8830c3d642081e8a626b6422f2c9030
+
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8eJZYwHpNP7ePpZN8Y0EXtAC31Q.jpg" group-title="BOXING Live Feb22(S1)",3AM Leigh Wood vs Josh Warrington 2
+https://cdn11.zafiles.cfd/live/cdn11/playlist.m3u8?expires=1771706656&token=86a43c1f1b99dd544f6e2c623c4f20ecf6f0ad10aa189b1b95c589aff6c06f41
+
+#EXTINF:-1 tvg-logo="https://www.boxing247.com/wp-content/uploads/2026/02/garcia-barrios.jpg" group-title="BOXING Live Feb22(S1)",9AM Mario Barrios vs Ryan Garcia
+https://cdn11.zafiles.cfd/live/cdn11/playlist.m3u8?expires=1771708125&token=bb8a5ab92702fb81e3adf44769ebf10be7d07d6313b4bb817bbd183c94623abd
+
+
+
+#EXTINF:-1 tvg-logo="https://www.actumma.com/wp-content/uploads/2026/02/UFC-Fight-Night-267-Comment-Regarder.jpg" group-title="UFC Live Feb22(S1)",6AM UFC Fight Night: Strickland vs. Hernandez
+https://cdn1.zafiles.cfd/live/cdn1/playlist.m3u8?expires=1771707003&token=84dd528af34ffc8c625dd88894761d55dd0088df3d4663ada4a513d03b6704ad
+
+
 
 
 
