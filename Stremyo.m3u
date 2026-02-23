@@ -1,44 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb23(S1)",2AM Cavaliers vs Thunder
-https://cdn1.zafiles.cfd/live/cdn1/playlist.m3u8?expires=1771777803&token=4c88b3b2427f999e1f679f3c711054f0cb5421d57c0b6cf7a53c6f574ec8872b
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb24(S1)",8AM Spurs vs Pistons
+https://cdn1.zafiles.cfd/live/cdn1/playlist.m3u8?expires=1771890161&token=ca3ff5460d89e339315da9b76859aa212c741b23861d5d9ca01af52d9af25446
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb23(S1)",4:30AM Nets vs Hawks
-https://cdn3.zafiles.cfd/live/cdn3/playlist.m3u8?expires=1771782575&token=d94f1903705187fc902117edf11d1e8065d005d9cce31dce1ffe2ff72ca23abd
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb24(S1)",9AM Kings vs Grizzlies
+https://cdn2.zafiles.cfd/live/cdn2/playlist.m3u8?expires=1771890397&token=4bf1730c390e8efe79eb45b631e630ac63d54fbfe03df2c373ca0e37889e33ee
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb23(S1)",4:30AM Raptors vs Bucks
-https://cdn2.zafiles.cfd/live/cdn2/playlist.m3u8?expires=1771777800&token=ed91a980e375c3731e654ec4af859dc894cc65e1257df7cd2b4cd851b156a35e
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb23(S1)",4:30AM Nuggets vs Warriors
-https://cdn4.zafiles.cfd/live/cdn4/playlist.m3u8?expires=1771782610&token=10268af49f9218c7e2da0f96b6d87f97aceb03dd4785730bf17fde71b1511d5b
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb23(S1)",6AM Mavericks vs Pacers
-https://cdn5.zafiles.cfd/live/cdn5/playlist.m3u8?expires=1771777802&token=a99f1acd8e8479e502bd9b5bb67b025e489e21279c85d8998dda322339fd3dfd
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb23(S1)",7AM Hornets vs Wizards
-https://cdn1.zafiles.cfd/live/cdn1/playlist.m3u8?expires=1771777806&token=74219af71135ce75c09f61c953545d7df592e546f5cb83ac9e74e89dff701651
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb23(S1)",7:30AM Celtics vs Lakers
-https://cdn2.zafiles.cfd/live/cdn2/playlist.m3u8?expires=1771777799&token=0ffa04a2ecfb27566ec8eb53397cc48afa12687ca6060f24d84d5680361e71b5
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb23(S1)",8AM 76ers vs Timberwolves
-https://cdn3.zafiles.cfd/live/cdn3/playlist.m3u8?expires=1771777800&token=0ac1c917c90b0ed0fea0823e9614611a7456269bb8e74b08ef9aec1a8df5f448
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb23(S1)",9AM Knicks vs Bulls
-https://cdn6.zafiles.cfd/live/cdn6/playlist.m3u8?expires=1771782741&token=72f9e6d14103866c2e4ea212f8f29ce53930ba3e3d5507e9ae56caa58572d0b6
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb23(S1)",9AM Blazers vs Suns
-https://cdn4.zafiles.cfd/live/cdn4/playlist.m3u8?expires=1771777800&token=cb18ee8dc1104636d3e4467a5600b77641959bda995d0a54d3efd3003226a6c6
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb23(S1)",10AM Magic vs Clippers
-https://cdn5.zafiles.cfd/live/cdn5/playlist.m3u8?expires=1771777799&token=625a107753329593e11f7a79f6c28f753a6ec6d9ce6001b82195e3a61275db99
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.93g5uJhktGpT1xOxhkdiNgHaDv?pid=Api&h=220&P=0" group-title="COMBAT SPORTS Live Feb23(S1)",9AM Claressa Shields vs Franchon Crews-Dezurn II
-https://cdn9.zafiles.cfd/live/cdn9/playlist.m3u8?expires=1771782527&token=3c4014e56b2abfb1cadf93e5794a276c990a474938f45a5b7495cec3532048bc
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live Feb24(S1)",10:30AM Jazz vs Rockets
+https://cdn3.zafiles.cfd/live/cdn3/playlist.m3u8?expires=1771891035&token=05b60deee6944be70955f103dfa30f3a149a69a7a7a9fa908acb2762e9601867
 
 
 
