@@ -3,42 +3,30 @@
 https://vod2.poocloud.in/evw22/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/b406ff9100d91b9210600260350246ff-thumbnail.jpg" group-title="WRESTLING Live MAR05(S1)",9AM AEW: Wednesday Night Dynamite
+https://cdn1.trrfiles.cfd/live/cdn1/chunks.m3u8
+
+
+
+
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR04(S1)",8AM  Mavericks vs Hornets
-https://cdn3.trrfiles.cfd/live/cdn3/playlist.m3u8?expires=1772575896&token=18b892acbe93e52e25f27b737c6ba273afdbb01bb752e549ffaa47db5ebef294
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR05(S1)",8AM Thunder vs Knicks
+https://cdn1.trrfiles.cfd/live/cdn1/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR04(S1)",8AM  Pistons vs Cavaliers
-https://cdn2.trrfiles.cfd/live/cdn2/playlist.m3u8?expires=1772575866&token=86ed977171e99d350b193105149643c594d6b964308fdf5364ba27fc41a9a193
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR05(S1)",8:30AM Hornets vs Celtics
+https://cdn2.trrfiles.cfd/live/cdn2/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR04(S1)",8AM Wizards vs Magic
-https://cdn1.trrfiles.cfd/live/cdn1/playlist.m3u8?expires=1772575808&token=c4a903e46d1b584c14ee79c10d17ee48ed198cdd19e400660a361f6d3490de37
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR05(S1)",8:30AM Jazz vs 76ers
+https://cdn3.trrfiles.cfd/live/cdn3/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR04(S1)",8:30AM Nets vs Heat
-https://cdn5.trrfiles.cfd/live/cdn5/playlist.m3u8?expires=1772575984&token=b33d0c722fa6ec1f8b1a974fa74c3ef4f8cf427357132c7aff2b9fd06d0681f1
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR05(S1)",9AM Blazers vs Grizzlies
+https://cdn9.trrfiles.cfd/live/cdn9/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR04(S1)",8:30AM Knicks vs Raptors
-https://cdn4.trrfiles.cfd/live/cdn4/playlist.m3u8?expires=1772575936&token=af8a8242fc1000665ecf99c63a2d00f765e2f7394a35decc59677c154f6e427f
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR05(S1)",10:30AM Hawks vs Bucks
+https://cdn5.trrfiles.cfd/live/cdn5/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR04(S1)",9AM Spurs vs 76ers
-https://cdn8.trrfiles.cfd/live/cdn8/chunks.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR04(S1)",9AM Thunder vs Bulls
-https://cdn7.trrfiles.cfd/live/cdn7/playlist.m3u8?expires=1772576059&token=2ba87cac212dc98db20d4c0bcf71f4c6afb4e7f3d73339d2eae968a66dd62dfd
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR04(S1)",9AM Grizzlies vs Timberwolves
-https://cdn6.trrfiles.cfd/live/cdn6/playlist.m3u8?expires=1772576024&token=7fb18d3822964312ee03f6cfc78eed13a7b5e125080056dc3dbb6a468e614e48
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR04(S1)",11:30AM Pelicans vs Lakers
-https://cdn1.trrfiles.cfd/live/cdn1/playlist.m3u8?expires=1772576119&token=1d5568aa2afe200ee19b3fc1a9a4a6f8d348ce1b7e88efac4d26ae31013bfe58
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR04(S1)",12AM Suns vs Kings
-https://cdn2.trrfiles.cfd/live/cdn2/playlist.m3u8?expires=1772576154&token=003c9da77eb1fb14f901dd8f0be1b719c2aeb4582cdf35e37dc89594f6734788
-
-
-
-
-#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/56336f9d22c51c416e1a56afbd18f314-thumbnail.jpg" group-title="WRESTLING Live MAR04(S1)",9AM WWE NXT
-https://cdn5.trrfiles.cfd/live/cdn5/playlist.m3u8?expires=1772578392&token=eebb96e90c0638c368bbeed19016ec2edd47eb0620046e621ecb57fec2caba6e
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR05(S1)",11:30AM Pacers vs Clippers
+https://cdn6.trrfiles.cfd/live/cdn6/chunks.m3u8
 
 
 
