@@ -1,42 +1,47 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.KzJ3y8vPvO5BYazbby-gsgHaD0?pid=Api&h=220&P=0" group-title="BOXING MAR06(S1)",7:30AM Steven Butler vs Ramadan Hiseni
-https://cdn10.trrfiles.cfd/live/cdn10/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://library.sportingnews.com/styles/twitter_card_120x120/s3/2026-02/RIZIN%2052%20Kyoma%20Akimoto%20vs%20Patchy%20Mix.jpg?itok=NiOwo2Nl" group-title="BOXING LIVE MAR07(S1)",11AM RIZIN 52: Kyoma Akimoto vs. Patchy Mix
+https://602.lifesharper.com/wwe.m3u8
 
-#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.xCEnQTwVnFMBhoz2ubGcvgHaJ4?pid=Api&h=220&P=0" group-title="ARM WRESTLING FEB28 2026",EAST VS WEST XXII (VOD)
-https://vod2.poocloud.in/evw22/index.m3u8
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="WRESTLING MAR07(S2)",9AM WWE: Friday Night Smackdown
+https://602.lifesharper.com/wwe.m3u8
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/5422900e0d257ade47a5f6179e5066cc-thumbnail.jpg" group-title="MOTORSPORTS LIVE MAR07(S2)",9:30AM Australian Grand Prix Formula 1 - Free Practice 3
+https://602.xn--1000-ugoa0hsb9a0hb.com/f1.m3u8
+
+#EXTINF:-1 tvg-logo="https://api.ppv.to/assets/thumb/d72b1274e0df94b08fd451342b472a44-thumbnail.jpg" group-title="MOTORSPORTS LIVE MAR07(S2)",1PM Australian Grand Prix Formula 1 - Qualifying
+https://602.xn--1000-ugoa0hsb9a0hb.com/f1.m3u8
+
+
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR06(S2)",8AM Mavericks vs Magic
-https://602.xn--1000-ugoa0hsb9a0hb.com/nba.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR07(S2)",8AM Mavericks vs Celtics
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR06(S2)",8AM Jazz vs Wizards
-https://daffodil.833577.xyz/nba2.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR07(S2)",8AM Heat vs Hornets
+https://daffodil.serverbandel.sbs/nba2.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR06(S2)",8:30AM Nets vs Heat
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR07(S2)",9AM Trail Blazers vs Rockets
 https://daffodil.serverbandel.sbs/nba3.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR06(S2)",8:30AM Warriors vs Rockets
-https://daffodil.833577.xyz/nba4.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR07(S2)",10AM Knicks vs Nuggets
+https://daffodil.serverbandel.sbs/nba4.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR06(S2)",9AM Raptors vs Timberwolves
-https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba5.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR07(S2)",10AM Pelicans vs Suns
+https://daffodil.serverbandel.sbs/nba5.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR06(S2)",9AM Pistons vs Spurs
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR07(S2)",10:30AM Clippers vs Spurs
 https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba6.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR06(S2)",10AM Bulls vs Suns
-https://601.xn--1000-ugoa0hsb9a0hb.com/nba7.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR06(S2)",11AM Lakers vs Nuggets
-https://601.xn--1000-ugoa0hsb9a0hb.com/nba8.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR06(S2)",11AM Pelicans vs  Kings
-https://601.xn--1000-ugoa0hsb9a0hb.com/nba9.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR07(S2)",11:30AM Pacers vs Lakers
+https://daffodil.xn--1000-ugoa0hsb9a0hb.com/nba7.m3u8
 
 
 
 
+
+#EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.xCEnQTwVnFMBhoz2ubGcvgHaJ4?pid=Api&h=220&P=0" group-title="ARM WRESTLING FEB28 2026",EAST VS WEST XXII (VOD)
+https://vod2.poocloud.in/evw22/index.m3u8
 
 
 
