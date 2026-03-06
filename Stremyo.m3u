@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://tse2.mm.bing.net/th/id/OIP.KzJ3y8vPvO5BYazbby-gsgHaD0?pid=Api&h=220&P=0" group-title="BOXING MAR06(S1)",7:30AM Steven Butler vs Ramadan Hiseni
+https://cdn10.trrfiles.cfd/live/cdn10/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="https://tse4.mm.bing.net/th/id/OIP.xCEnQTwVnFMBhoz2ubGcvgHaJ4?pid=Api&h=220&P=0" group-title="ARM WRESTLING FEB28 2026",EAST VS WEST XXII (VOD)
 https://vod2.poocloud.in/evw22/index.m3u8
 
