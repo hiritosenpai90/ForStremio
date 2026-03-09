@@ -1,33 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR09(S2)",1AM Boston Celtics vs Cleveland Cavaliers
-https://daffodil.lifesharper.com/nba.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR10(S1)",7AM Philadelphia 76ers vs Cleveland Cavaliers
+https://cdn1.tgfiles.cfd/live/cdn1/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR09(S2)",3:30AM New York Knicks vs Los Angeles Lakers
-https://daffodil.lifesharper.com/nba2.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR10(S1)",7:30AM Memphis Grizzlies vs Brooklyn Nets
+https://cdn2.tgfiles.cfd/live/cdn2/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR09(S2)",6AM Detroit Pistons vs Miami Heat
-https://daffodil.e-kinerjapjlppsblhs4.fun/nba3.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR10(S1)",7:30AM Denver Nuggets vs Oklahoma City Thunder
+https://cdn3.tgfiles.cfd/live/cdn3/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR09(S2)",6AM Dallas Mavericks vs Toronto Raptors
-https://daffodil.e-kinerjapjlppsblhs4.fun/nba4.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR10(S1)",9AM Golden State Warriors vs Utah Jazz
+https://cdn4.tgfiles.cfd/live/cdn4/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR09(S2)",7AM Washington Wizards vs New Orleans Pelicans
-https://daffodil.lifesharper.com/nba5.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR10(S1)",10AM New York Knicks vs Los Angeles Clippers
+https://cdn5.tgfiles.cfd/live/cdn5/chunks.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR09(S2)",8AM Orlando Magic vs Milwaukee Bucks
-https://daffodil.lifesharper.com/nba6.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR09(S2)",8AM Houston Rockets vs San Antonio Spurs
-https://daffodil.serverbandel.sbs/nba7.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR09(S2)",9AM Indiana Pacers vs Portland Trail Blazers
-https://daffodil.lifesharper.com/nba8.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR09(S2)",9AM Chicago Bulls vs Sacramento Kings
-https://daffodil.lifesharper.com/nba9.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg" group-title="NBA Live MAR09(S2)",10AM Charlotte Hornets vs Phoenix Suns
-https://daffodil.lifesharper.com/nba10.m3u8
 
 
 
