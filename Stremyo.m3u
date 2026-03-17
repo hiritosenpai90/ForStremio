@@ -1,27 +1,44 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR17(S1)",7AM Orlando Magic vs Atlanta Hawks
-https://cdn13.tyfiles.cfd/live/cdn13/chunks.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR18(S1)",7AM Miami Heat vs Charlotte Hornets
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn3.tkfiles.cfd/live/cdn3/playlist.m3u8?expires=1773788220&token=2c96c55ec400b73a8e7f2a4eaa11b87c537857927cf88dd57d50fa18b8b709d6
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR17(S1)",7AM Golden State Warriors vs Washington Wizards
-https://cdn14.tyfiles.cfd/live/cdn14/chunks.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR18(S1)",7AM Oklahoma City Thunder vs Orlando Magic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn2.tkfiles.cfd/live/cdn2/playlist.m3u8?expires=1773788218&token=7a849690a8a537401f8c9061eddd0ffa272459fb18f7dffee52682b7ea66f3bb
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR17(S1)",7:30AM Portland Trail Blazers vs Brooklyn Nets
-https://cdn11.tyfiles.cfd/live/cdn11/chunks.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR18(S1)",7AM Detroit Pistons vs Washington Wizards
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn1.tkfiles.cfd/live/cdn1/playlist.m3u8?expires=1773788218&token=4aedefdcdcc8e6702dc0739fd3ad15eda4b1f9e35a715f475bb768bf41f5bbf4
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR17(S1)",7:30AM Phoenix Suns vs Boston Celtics
-https://cdn12.tyfiles.cfd/live/cdn12/chunks.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR18(S1)",7:30AM Indiana Pacers vs New York Knicks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn4.tkfiles.cfd/live/cdn4/playlist.m3u8?expires=1773788220&token=e2b0148530bb568b00b8551d4f50a65d6b2e86cb15eb507e27d1338a933995b1
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR17(S1)",8AM Memphis Grizzlies vs Chicago Bulls
-https://cdn9.tyfiles.cfd/live/cdn9/chunks.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR18(S1)",8AM Cleveland Cavaliers vs Milwaukee Bucks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn6.tkfiles.cfd/live/cdn6/playlist.m3u8?expires=1773788222&token=d9f39c3383589aeaba7bc798d216b16a3584748ff6deb7a18abc15b467b06a64
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR17(S1)",8AM Dallas Mavericks vs New Orleans Pelicans
-https://cdn10.tyfiles.cfd/live/cdn10/chunks.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR18(S1)",8AM Phoenix Suns vs Minnesota Timberwolves
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn5.tkfiles.cfd/live/cdn5/playlist.m3u8?expires=1773788220&token=812ae3e33f1cd941b9f2735531e9d7b002f5cd2506ba9b7e570ec50ec9627e31
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR17(S1)",9:30AM Los Angeles Lakers vs Houston Rockets
-https://cdn15.tyfiles.cfd/live/cdn15/chunks.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR18(S1)",10AM Philadelphia 76ers vs Denver Nuggets
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn8.tkfiles.cfd/live/cdn8/playlist.m3u8?expires=1773788222&token=90a282d55c8c550ae595eeccc9f19ed9ae5787c6e993636b27a2b09db7313525
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR17(S1)",10AM San Antonio Spurs vs LA Clippers
-https://cdn14.tyfiles.cfd/live/cdn14/chunks.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR18(S1)",10AM San Antonio Spurs vs Sacramento Kings
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://cdn7.tkfiles.cfd/live/cdn7/playlist.m3u8?expires=1773788222&token=da3d2e71724c5edf66182c4cd3d22a752e580021ff0ea88c3b87cce93d0e69f9
+
 
 
 
