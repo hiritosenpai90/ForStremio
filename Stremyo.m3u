@@ -1,27 +1,28 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR17(S1)",7AM Orlando Magic vs Atlanta Hawks
-https://cdn2.tyfiles.cfd/live/cdn2/chunks.m3u8
+https://cdn13.tyfiles.cfd/live/cdn13/chunks.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR17(S1)",7AM Golden State Warriors vs Washington Wizards
-https://cdn1.tyfiles.cfd/live/cdn1/chunks.m3u8
+https://cdn14.tyfiles.cfd/live/cdn14/chunks.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR17(S1)",7:30AM Portland Trail Blazers vs Brooklyn Nets
-https://cdn4.tyfiles.cfd/live/cdn4/chunks.m3u8
+https://cdn11.tyfiles.cfd/live/cdn11/chunks.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR17(S1)",7:30AM Phoenix Suns vs Boston Celtics
-https://cdn3.tyfiles.cfd/live/cdn3/chunks.m3u8
+https://cdn12.tyfiles.cfd/live/cdn12/chunks.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR17(S1)",8AM Memphis Grizzlies vs Chicago Bulls
-https://cdn5.tyfiles.cfd/live/cdn5/chunks.m3u8
+https://cdn9.tyfiles.cfd/live/cdn9/chunks.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR17(S1)",8AM Dallas Mavericks vs New Orleans Pelicans
-https://cdn6.tyfiles.cfd/live/cdn6/chunks.m3u8
+https://cdn10.tyfiles.cfd/live/cdn10/chunks.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR17(S1)",9:30AM Los Angeles Lakers vs Houston Rockets
-https://cdn7.tyfiles.cfd/live/cdn7/chunks.m3u8
+https://cdn15.tyfiles.cfd/live/cdn15/chunks.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR17(S1)",10AM San Antonio Spurs vs LA Clippers
-https://cdn8.tyfiles.cfd/live/cdn8/chunks.m3u8
+https://cdn14.tyfiles.cfd/live/cdn14/chunks.m3u8
+
 
 
 
