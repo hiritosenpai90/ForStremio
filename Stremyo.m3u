@@ -1,43 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR20(S1)",7AM Orlando Magic vs Charlotte Hornets
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR21(S1)",7:30AM New York Knicks vs Brooklyn Nets
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn1.tkfiles.cfd/live/cdn1/chunks.m3u8
+https://cdn1.tkfiles.cfd/live/cdn1/playlist.m3u8?expires=1773989863&token=25ea7ae09eab61d0f06762b6be514cbe01c3bebbf7fc4a1c3e079dad990a3f6b
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR20(S1)",7AM Detroit Pistons vs Washington Wizards
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR21(S1)",7:30AM Golden State Warriors vs Detroit Pistons
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn2.tkfiles.cfd/live/cdn2/chunks.m3u8
+https://cdn2.tkfiles.cfd/live/cdn2/playlist.m3u8?expires=1773989863&token=8de0d852b70e434e1417f7c1db8a1c37186c11b572b2ee5ffbc966a66c8ffc4a
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR20(S1)",8AM Los Angeles Lakers vs Miami Heat
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR21(S1)",8AM Atlanta Hawks vs Houston Rockets
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn6.tkfiles.cfd/live/cdn6/chunks.m3u8
+https://cdn5.tkfiles.cfd/live/cdn5/playlist.m3u8?expires=1773989865&token=a027e47b5a1e508089a2f9319dcc94b85a2f3816e0306f9b6f219fb6dd7a4ddc
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR20(S1)",8AM Cleveland Cavaliers vs Chicago Bulls
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR21(S1)",8AM Boston Celtics vs Memphis Grizzlies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn5.tkfiles.cfd/live/cdn5/chunks.m3u8
+https://cdn4.tkfiles.cfd/live/cdn4/playlist.m3u8?expires=1773989865&token=909eb46e8758ba279d6ca159e30c1912c8357a7c68481ac57eeea4df10da18ef
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR20(S1)",8AM Los Angeles Clippers vs New Orleans Pelicans
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR21(S1)",8AM Portland Trail Blazers vs Minnesota Timberwolves
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn3.tkfiles.cfd/live/cdn3/chunks.m3u8
+https://cdn3.tkfiles.cfd/live/cdn3/playlist.m3u8?expires=1773989866&token=c12fd890845613ffe37565678fb9092da5ce8d6b0ca12888822393a4e1ba1710
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR20(S1)",8AM Phoenix Suns vs San Antonio Spurs
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR21(S1)",9AM Toronto Raptors vs Denver Nuggets
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn4.tkfiles.cfd/live/cdn4/chunks.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR20(S1)",9AM Milwaukee Bucks vs Utah Jazz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn7.tkfiles.cfd/live/cdn7/chunks.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live MAR20(S1)",10AM Philadelphia 76ers vs Sacramento Kings
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://cdn8.tkfiles.cfd/live/cdn8/chunks.m3u8
+https://cdn6.tkfiles.cfd/live/cdn6/playlist.m3u8?expires=1773989868&token=02e1054af3b463fe0db074f5845e41805c68baddca640b78649e20dfc1489c95
 
 
 
