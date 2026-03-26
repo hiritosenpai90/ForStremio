@@ -1,40 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR26(S3)",7AM Atlanta Hawks vs Detroit Pistons
-https://v13.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=LfV3xAJY2zl4WK9D9DdLSg&expires=1774499405&user_id=V21YTG9NcW4wb0g1QUNibVZLM2RDQWNrSEpNa0tXdzkxaXMyaVVFcQ==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR27(S3)",7AM New York Knicks vs Charlotte Hornets
+https://v8.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=H1PWiDABfqTmAhw81rMFtw&expires=1774578763&user_id=eWJsZTNvbWthM3pyM0IzWHIxbnJOWG04Rlk0bWlIVlFTakpSZkVHeQ==
+https://lb2.modifiles.fans/secure/bFqUYhiAauHWrQtylxqpQSHmaLKaNDnu/1773691200/1773719280/atlantahawks/tracks-v1a1/mono.ts.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR26(S3)",7AM Los Angeles Lakers vs Indiana Pacers
-https://v4.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=gs6gFyMoXO8VVZq0nJGZ1w&expires=1774499695&user_id=V21YTG9NcW4wb0g1QUNibVZLM2RDQWNrSEpNa0tXdzkxaXMyaVVFcQ==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR27(S3)",7AM New Orleans Pelicans vs Detroit Pistons
+https://v13.thetvapp.to/hls/NBA03/tracks-v1a1/mono.m3u8?token=7ZLG9fBmmIQ7Bl4qLDgN6Q&expires=1774579029&user_id=eWJsZTNvbWthM3pyM0IzWHIxbnJOWG04Rlk0bWlIVlFTakpSZkVHeQ==
+https://lb2.modifiles.fans/secure/TOhAfiYABEvPfVeZBmwJzlHlbDHpEAnM/1773592200/1773620280/clevelandcavaliers/tracks-v1a1/mono.ts.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR26(S3)",7AM Chicago Bulls vs Philadelphia 76ers
-https://v5.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=0WWxVKRbBiLQxP7SpOFfnQ&expires=1774499594&user_id=V21YTG9NcW4wb0g1QUNibVZLM2RDQWNrSEpNa0tXdzkxaXMyaVVFcQ==
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR26(S3)",7:30AM Oklahoma City Thunder vs Boston Celtics
-https://e2.thetvapp.to/hls/NBA05/tracks-v1a1/mono.m3u8?token=6BYPy81JKGz-PaDawC8cxQ&expires=1774499857&user_id=V21YTG9NcW4wb0g1QUNibVZLM2RDQWNrSEpNa0tXdzkxaXMyaVVFcQ==
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR26(S3)",7:30AM Miami Heat vs Cleveland Cavaliers
-https://v18.thetvapp.to/hls/NBA04/tracks-v1a1/mono.m3u8?token=aaCQxaWKU4CQYvWFVKa4jw&expires=1774499906&user_id=V21YTG9NcW4wb0g1QUNibVZLM2RDQWNrSEpNa0tXdzkxaXMyaVVFcQ==
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR26(S3)",8AM San Antonio Spurs vs Memphis Grizzlies
-https://v12.thetvapp.to/hls/NBA06/tracks-v1a1/mono.m3u8?token=QpSa8sXQUiYEM7phnHATIg&expires=1774500006&user_id=V21YTG9NcW4wb0g1QUNibVZLM2RDQWNrSEpNa0tXdzkxaXMyaVVFcQ==
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR26(S3)",9AM Washington Wizards vs Utah Jazz
-https://e1.thetvapp.to/hls/NBA07/tracks-v1a1/mono.m3u8?token=6v9ec49PF8O_VqUXwmea_Q&expires=1774500055&user_id=V21YTG9NcW4wb0g1QUNibVZLM2RDQWNrSEpNa0tXdzkxaXMyaVVFcQ==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR27(S3)",7AM Sacramento Kings vs Orlando Magic
+https://v12.thetvapp.to/hls/NBA02/tracks-v1a1/mono.m3u8?token=8aIdvgyQAUVojshWoq_AyQ&expires=1774579095&user_id=eWJsZTNvbWthM3pyM0IzWHIxbnJOWG04Rlk0bWlIVlFTakpSZkVHeQ==
 https://lb2.modifiles.fans/secure/KfkLVkMShFICVvnSFQgIIEzdrSNhRicv/1773592200/1773620280/torontoraptors/tracks-v1a1/mono.ts.m3u8|Referer=https://ppv.to/&Origin=https://ppv.to
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR26(S3)",9:30AM Houston Rockets vs Minnesota Timberwolves
-https://e2.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=uJ4wcoR2jV06pmtEJdvJSg&expires=1774500138&user_id=V21YTG9NcW4wb0g1QUNibVZLM2RDQWNrSEpNa0tXdzkxaXMyaVVFcQ==
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR26(S3)",10AM Dallas Mavericks vs Denver Nuggets
-https://v5.thetvapp.to/hls/NBA09/tracks-v1a1/mono.m3u8?token=CQYqKNZC1g2NJdf588aLEQ&expires=1774500321&user_id=V21YTG9NcW4wb0g1QUNibVZLM2RDQWNrSEpNa0tXdzkxaXMyaVVFcQ==
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR26(S3)",10AM Brooklyn Nets vs Golden State Warriors
-https://v4.thetvapp.to/hls/NBA10/tracks-v1a1/mono.m3u8?token=LfImWqQHU0nqazAvv-d8Qw&expires=1774500189&user_id=V21YTG9NcW4wb0g1QUNibVZLM2RDQWNrSEpNa0tXdzkxaXMyaVVFcQ==
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR26(S3)",10AM Milwaukee Bucks vs Portland Trail Blazers
-https://v14.thetvapp.to/hls/NBA11/tracks-v1a1/mono.m3u8?token=EknHCHYxLBekGlLVQnMiGQ&expires=1774500522&user_id=V21YTG9NcW4wb0g1QUNibVZLM2RDQWNrSEpNa0tXdzkxaXMyaVVFcQ==
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg" group-title="NBA Live SD MAR26(S3)",11AM Toronto Raptors vs Los Angeles Clippers
-https://v16.thetvapp.to/hls/NBA12/tracks-v1a1/mono.m3u8?token=jVBGfWv0svA7y3fQYPwvYQ&expires=1774500601&user_id=V21YTG9NcW4wb0g1QUNibVZLM2RDQWNrSEpNa0tXdzkxaXMyaVVFcQ==
 
 
 
