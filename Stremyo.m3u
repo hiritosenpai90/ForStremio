@@ -1,53 +1,11 @@
 #EXTM3U
 #EXTINF:-1 group-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg"
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD APRIL 11(S1)",7AM Detroit Pistons vs Charlotte Hornets
-https://tt1.ttfiles.cfd/live/detrit/stream.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD APRIL 11(S1)",7AM Miami Heat vs Washington Wizards
-https://tt1.ttfiles.cfd/live/wizerd/stream.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD APRIL 11(S1)",7AM Cleveland Cavaliers vs Atlanta Hawks
-https://tt1.ttfiles.cfd/live/hawks/stream.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD APRIL 11(S1)",7:30AM New Orleans Pelicans vs Boston Celtics
-https://tt2.ttfiles.cfd/live/pelicans/stream.m3u8
-https://tt2.ttfiles.cfd/live/celtics/stream.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD APRIL 11(S1)",7:30AM Philadelphia 76ers vs Indiana Pacers
-https://tt2.ttfiles.cfd/live/indiana/stream.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD APRIL 11(S1)",7:30AM Toronto Raptors vs New York Knicks
-https://tt2.ttfiles.cfd/live/toronto/stream.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD APRIL 11(S1)",8AM Orlando Magic vs Chicago Bulls
-https://tt3.ttfiles.cfd/live/orlando/stream.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD APRIL 11(S1)",8AM Brooklyn Nets vs Milwaukee Bucks
-https://tt3.ttfiles.cfd/live/bucks/stream.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD APRIL 11(S1)",8AM Dallas Mavericks vs San Antonio Spurs
-https://tt3.ttfiles.cfd/live/dallas/stream.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD APRIL 11(S1)",9AM Oklahoma City Thunder vs Denver Nuggets
-https://tt4.ttfiles.cfd/live/denver/stream.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD APRIL 11(S1)",9:30AM Minnesota Timberwolves vs Houston Rockets
-https://tt4.ttfiles.cfd/live/timber/stream.m3u8
-https://tt3.ttfiles.cfd/live/rockets/stream.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD APRIL 11(S1)",9:30AM Memphis Grizzlies vs Utah Jazz
-https://tt4.ttfiles.cfd/live/utah/stream.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD APRIL 11(S1)",10AM Los Angeles Clippers vs Portland Trail Blazers
-https://tt5.ttfiles.cfd/live/blazers/stream.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD APRIL 11(S1)",10AM Golden State Warriors vs Sacramento Kings
-https://tt5.ttfiles.cfd/live/warriors/stream.m3u8
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD APRIL 11(S1)",10:30AM Phoenix Suns vs Los Angeles Lakers
-https://tt5.ttfiles.cfd/live/lakerss/stream.m3u8
-https://tt3.ttfiles.cfd/live/laker/stream.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD APRIL 12",NO GAME SCHEDULE TODAY
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://daffodil.premiumjh.shop/nba.m3u8
 
 
 
