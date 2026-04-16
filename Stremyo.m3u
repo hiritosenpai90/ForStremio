@@ -1,11 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://wallpapers.com/images/hd/nba-logo-3840-x-2400-m54hudw7ky3u000c.jpg"
+#EXTINF:-1 group-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg"
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ccd8e1539ba8809ac64b173efea81bc9-thumbnail.jpg" group-title="NBA Live SD APRIL 16",7:30AM Orlando Magic vs 76ers
-https://v18.thetvapp.to/hls/nba01/tracks-v1a1/mono.m3u8?token=vXr9w3IeMNur0o9sPgCHnw&expires=1776314446&user_id=OHY2YjJTYllRSk50S29ZU1FkWW1EaDRGUG55Vlk5UUw4Q2I5SE1IWQ==
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9629640c58200b49cd0c2fd8a25afa69-thumbnail.jpg" group-title="NBA Live SD APRIL 16",10AM Golden State Warriors vs LA Clippers
-https://e2.thetvapp.to/hls/nba02/tracks-v1a1/mono.m3u8?token=aa2YoHKdNeng6yYHstT0qw&expires=1776314627&user_id=OHY2YjJTYllRSk50S29ZU1FkWW1EaDRGUG55Vlk5UUw4Q2I5SE1IWQ==
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD APRIL 17",NO GAME SCHEDULE TODAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://mb4.tofiles.cfd/live/golden/stream.m3u8
 
 
 
