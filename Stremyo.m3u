@@ -1,34 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg"
-
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://wallpapers.com/images/hd/nba-logo-m0ook3s6uw962j74.jpg" group-title="NBA Live HD APRIL 17",NO GAME SCHEDULE TODAY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://mb4.tofiles.cfd/live/golden/stream.m3u8
-
-
-
-
-
-
-_________________________________________________________________________________________________________________________
-
-
-
-
-
-
-#EXTM3U
 #EXTINF:-1 group-logo="https://wallpapers.com/images/hd/hd-nba-super-star-2fxya4ekfzat7bml.jpg"
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ccd8e1539ba8809ac64b173efea81bc9-thumbnail.jpg" group-title="NBA Live HD APRIL 16(S1)",7:30AM Orlando Magic vs 76ers
-https://mb3.tofiles.cfd/live/magic/stream.m3u8?expires=1776286796&token=2779915803d2387b0bb98fe38d7a43e3491010ac59bf011f49409539478d70a2
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ccd8e1539ba8809ac64b173efea81bc9-thumbnail.jpg" group-title="NBA Live HD APRIL 18(S1)",7:30AM Charlotte Hornets vs Orlando Magic
+https://mb1.tofiles.cfd/live/magic/stream.m3u8?expires=1776459519&token=0cba5c519d7e3748329da39b149ebba01c8e4a3ac5ea034ca87f71c9e17c836c
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9629640c58200b49cd0c2fd8a25afa69-thumbnail.jpg" group-title="NBA Live HD APRIL 16(S1)",10AM Golden State Warriors vs LA Clippers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://mb4.tofiles.cfd/live/golden/stream.m3u8?expires=1776286802&token=47ac58097d2d636166fd3df96df6777f34900754d0d0f5ca5d539eab3155df43
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/9629640c58200b49cd0c2fd8a25afa69-thumbnail.jpg" group-title="NBA Live HD APRIL 18(S1)",10AM Golden State Warriors vs Phoenix Suns
+https://mb2.tofiles.cfd/live/golden/stream.m3u8?expires=1776459524&token=8a7c5af1a37dbd3f61ba5dc7d665537812b7f79971bb0717245efd5d2b4c1a62
 
 
 
