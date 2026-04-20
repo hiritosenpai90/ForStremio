@@ -1,16 +1,17 @@
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 group-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true"
-#EXTINF:27 group-title="NBA LIVE APRIL 20" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",1AM 76ers vs Celtics
-https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=01dcab77f8cade3b2e656c780ef636ed0858907c6428d951d77422f9908f3783
+#EXTINF:27 group-title="NBA LIVE APRIL 21" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",7AM Raptors vs Cavaliers
+https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=f61b2b094353e8d70a23fecac882beeaab3d41eb22398ce0184c1dcfa7fec30f
 
-#EXTINF:28 group-title="NBA LIVE APRIL 20" tvg-id="iptv/live2" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",3:30AM Suns vs Thunder
-https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=01dcab77f8cade3b2e656c780ef636ed0858907c6428d951d77422f9908f3783
+#EXTINF:28 group-title="NBA LIVE APRIL 21" tvg-id="iptv/live2" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",8AM Hawks vs Knicks
+https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=f61b2b094353e8d70a23fecac882beeaab3d41eb22398ce0184c1dcfa7fec30f
 
-#EXTINF:28 group-title="NBA LIVE APRIL 20" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",6:30AM Magic vs Pistons
-https://nbalp.djdoolky76.io/stream/nbalp/live3/master.m3u8?u=gratisph&p=01dcab77f8cade3b2e656c780ef636ed0858907c6428d951d77422f9908f3783
+#EXTINF:28 group-title="NBA LIVE APRIL 21" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",10:30AM Timberwolves vs Nuggets
+https://nbalp.djdoolky76.io/stream/nbalp/live3/master.m3u8?u=gratisph&p=f61b2b094353e8d70a23fecac882beeaab3d41eb22398ce0184c1dcfa7fec30f
 
-#EXTINF:29 group-title="NBA LIVE APRIL 20" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",9AM Blazers vs Spurs
-https://nbalp.djdoolky76.io/stream/nbalp/live4/master.m3u8?u=gratisph&p=01dcab77f8cade3b2e656c780ef636ed0858907c6428d951d77422f9908f3783
+#EXTINF:29 group-title="NBA LIVE APRIL 21" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",NBA Leauge Pass 4
+https://nbalp.djdoolky76.io/stream/nbalp/live4/master.m3u8?u=gratisph&p=f61b2b094353e8d70a23fecac882beeaab3d41eb22398ce0184c1dcfa7fec30f
+
 
 
 
