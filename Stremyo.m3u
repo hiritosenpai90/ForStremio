@@ -1,11 +1,13 @@
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 group-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true"
-#EXTINF:27 group-title="NBA LIVE APRIL 23" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",7AM Orlando Magic vs Detroit Pistons
-https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=8b7c22e8b1900fe27cd0afd689f52bea0a9770dccbb3e79ec3e8d455d323f3a2
+#EXTINF:27 group-title="NBA LIVE APRIL 24" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",7AM Knicks vs Hawks
+https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=369686b591d2d9e6e824aa5027887ed8a4b69f2c9e890cb163e2cbdafee8bc19
 
-#EXTINF:28 group-title="NBA LIVE APRIL 23" tvg-id="iptv/live2" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",9:30AM Suns vs Thunder
-https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=8b7c22e8b1900fe27cd0afd689f52bea0a9770dccbb3e79ec3e8d455d323f3a2
+#EXTINF:28 group-title="NBA LIVE APRIL 24" tvg-id="iptv/live2" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",8AM Cavaliers vs Raptors
+https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=369686b591d2d9e6e824aa5027887ed8a4b69f2c9e890cb163e2cbdafee8bc19
 
+#EXTINF:28 group-title="NBA LIVE APRIL 24" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",9:30AM Denver Nuggets vs Timberwolves
+https://nbalp.djdoolky76.io/stream/nbalp/live3/master.m3u8?u=gratisph&p=369686b591d2d9e6e824aa5027887ed8a4b69f2c9e890cb163e2cbdafee8bc19
 
 
 
