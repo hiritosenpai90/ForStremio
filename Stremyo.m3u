@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 group-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true"
-#EXTINF:27 group-title="NBA LIVE APRIL 29" tvg-id="iptv/live" tvg-logo="https://imgur.com/u1iBS0s" provider="NBALP" provider-logo="" provider-type="iptv",7AM 76ers vs Celtics
+#EXTINF:27 group-title="NBA LIVE APRIL 29" tvg-id="iptv/live" tvg-logo="https://i.imgur.com/u1iBS0s.png" provider="NBALP" provider-logo="" provider-type="iptv",7AM 76ers vs Celtics
 https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=d2e130054b799b95934aab92119f9611ffea572b42b0f382485db6a8fe59d154
 
-#EXTINF:28 group-title="NBA LIVE APRIL 29" tvg-id="iptv/live2" tvg-logo="https://imgur.com/BaW78et" provider="NBALP" provider-logo="" provider-type="iptv",8AM Hawks vs Knicks
+#EXTINF:28 group-title="NBA LIVE APRIL 29" tvg-id="iptv/live2" tvg-logo="https://i.imgur.com/BaW78et.png" provider="NBALP" provider-logo="" provider-type="iptv",8AM Hawks vs Knicks
 https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=d2e130054b799b95934aab92119f9611ffea572b42b0f382485db6a8fe59d154
 
-#EXTINF:28 group-title="NBA LIVE APRIL 29" tvg-id="iptv/live" tvg-logo="https://imgur.com/e6UQEAD" provider="NBALP" provider-logo="" provider-type="iptv",9:30AM Trail Blazers vs Spurs
+#EXTINF:28 group-title="NBA LIVE APRIL 29" tvg-id="iptv/live" tvg-logo="https://i.imgur.com/e6UQEAD.png" provider="NBALP" provider-logo="" provider-type="iptv",9:30AM Trail Blazers vs Spurs
 https://nbalp.djdoolky76.io/stream/nbalp/live3/master.m3u8?u=gratisph&p=d2e130054b799b95934aab92119f9611ffea572b42b0f382485db6a8fe59d154
 
 
