@@ -1,13 +1,14 @@
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 group-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true"
-#EXTINF:27 group-title="NBA LIVE MAY 1" tvg-id="iptv/live" tvg-logo="https://i.imgur.com/rYr5X7K.png" provider="NBALP" provider-logo="" provider-type="iptv",7AM Knicks vs Hawks
-https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=0613fc90e25b57e9c86f85007abb9bd0438ad9132795a40f63f3671f58c0e07c
+#EXTINF:27 group-title="NBA LIVE MAY 2" tvg-id="iptv/live" tvg-logo="https://i.imgur.com/AO8VKRJ.png" provider="NBALP" provider-logo="" provider-type="iptv",7AM Pistons vs Magic
+https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=d3880610b21937fadb3f61246c14885ada98d68f2d378e11601f43d3838b065a
 
-#EXTINF:28 group-title="NBA LIVE MAY 1" tvg-id="iptv/live2" tvg-logo="https://i.imgur.com/u1iBS0s.png" provider="NBALP" provider-logo="" provider-type="iptv",8AM Celtics vs 76ers
-https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=0613fc90e25b57e9c86f85007abb9bd0438ad9132795a40f63f3671f58c0e07c
+#EXTINF:28 group-title="NBA LIVE MAY 2" tvg-id="iptv/live2" tvg-logo="https://i.imgur.com/vIcGE0I.png" provider="NBALP" provider-logo="" provider-type="iptv",7:30AM Cavaliers vs Raptors
+https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=d3880610b21937fadb3f61246c14885ada98d68f2d378e11601f43d3838b065a
 
-#EXTINF:28 group-title="NBA LIVE MAY 1" tvg-id="iptv/live" tvg-logo="https://i.imgur.com/MzBPwEh.png" provider="NBALP" provider-logo="" provider-type="iptv",9:30AM Nuggets vs Timberwolves
-https://nbalp.djdoolky76.io/stream/nbalp/live3/master.m3u8?u=gratisph&p=0613fc90e25b57e9c86f85007abb9bd0438ad9132795a40f63f3671f58c0e07c
+#EXTINF:28 group-title="NBA LIVE MAY 2" tvg-id="iptv/live" tvg-logo="https://i.imgur.com/oXHyUF4.png" provider="NBALP" provider-logo="" provider-type="iptv",9:30AM Lakers vs Rockets
+https://nbalp.djdoolky76.io/stream/nbalp/live3/master.m3u8?u=gratisph&p=d3880610b21937fadb3f61246c14885ada98d68f2d378e11601f43d3838b065a
+
 
 
 
