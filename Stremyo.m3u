@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 group-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true"
-#EXTINF:27 group-title="NBA LIVE MAY 8" tvg-id="iptv/live" tvg-logo="https://i.imgur.com/cgxACBB.png" provider="NBALP" provider-logo="" provider-type="iptv",7AM Cavaliers vs Pistons
+#EXTINF:27 group-title="NBA LIVE MAY 9" tvg-id="iptv/live" tvg-logo="https://i.imgur.com/bp1jIbc.png" provider="NBALP" provider-logo="" provider-type="iptv",7AM Knicks vs 76ers
 https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=8c6c31bf7e43801428106be8669164130067e693a344c40c3dd343ca131534cd
 
-#EXTINF:27 group-title="NBA LIVE MAY 8" tvg-id="iptv/live" tvg-logo="https://i.imgur.com/xsJrijA.png" provider="NBALP" provider-logo="" provider-type="iptv",9:30AM Lakers vs Thunder
+#EXTINF:27 group-title="NBA LIVE MAY 9" tvg-id="iptv/live" tvg-logo="https://i.imgur.com/p8LvYPM.png" provider="NBALP" provider-logo="" provider-type="iptv",9:30AM Spurs vs Timberwolves
 https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=8c6c31bf7e43801428106be8669164130067e693a344c40c3dd343ca131534cd
 
 
@@ -13,13 +13,13 @@ https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=8c6c31bf
 #EXTM3U
 #EXTINF:-1 group-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg"
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://i.imgur.com/1MJOmag.png" group-title="NBA Live HD MAY 8",7AM Cavaliers vs Pistons
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/e244cd7c443b43a59c888679542d6835-thumbnail.jpg" group-title="NBA Live HD MAY 9",7AM Knicks vs 76ers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://daffodil.sraspers.org/nba.m3u8
+https://601.denishdhakal.com.np/nba.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://i.imgur.com/HxsMCVc.png" group-title="NBA Live HD MAY 8",9:30AM Lakers vs Thunder
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2f143f3b9a6e9ce5e0ccedf3398cc075-thumbnail.jpg" group-title="NBA Live HD MAY 9",9:30AM Spurs vs Timberwolves
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
@@ -32,15 +32,38 @@ https://daffodil.denishdhakal.com.np/nba.m3u8
 #EXTM3U
 #EXTINF:-1 group-logo="https://cdn.nba.com/manage/2025/02/2025-playoffs-logo-google-banner.jpg"
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://i.imgur.com/WUktlLu.png" group-title="NBA Live HD MAY 8(S2)",7AM Cavaliers vs Pistons
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://i.imgur.com/iA6ITev.png" group-title="NBA Live HD MAY 9(S2)",7AM Knicks vs 76ers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://nb1.bpfiles.cfd/live/pistons/stream.m3u8
+https://nb1.bpfiles.cfd/live/76ers/stream.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://i.imgur.com/HxsMCVc.png" group-title="NBA Live HD MAY 8(S2)",9:30AM Lakers vs Thunder
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://i.imgur.com/p8LvYPM.png" group-title="NBA Live HD MAY 9(S2)",9:30AM Spurs vs Timberwolves
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://nb2.bpfiles.cfd/live/thunder/stream.m3u8
+https://nb2.bpfiles.cfd/live/timber/stream.m3u8
+
+
+
+
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 group-logo="https://i.imgur.com/jqoyj90.png"
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL MAY 9",10:10AM Atlanta Braves vs Los Angeles Dodgers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://601.denishdhakal.com.np/mlb14.m3u8
+
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL MAY 9",10:15AM Pittsburgh Pirates vs San Francisco Giants
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://601.denishdhakal.com.np/mlb11.m3u8
 
 
 
@@ -54,12 +77,33 @@ https://nb2.bpfiles.cfd/live/thunder/stream.m3u8
 
 #EXTINF:-1 group-logo="https://i.imgur.com/MFedyaJ.png"
 
-#EXTINF:-1 tvg-id="NHL.Network.us" tvg-logo="https://content.sportslogos.net/logos/1/486/full/vh1rmcgy4kvq66dvxj8rg7hhs.gif" group-title="ICE HOCKEY MAY 8",8AM Carolina Hurricanes vs Philadelphia Flyers
+#EXTINF:-1 tvg-id="NHL.Network.us" tvg-logo="https://content.sportslogos.net/logos/1/486/full/vh1rmcgy4kvq66dvxj8rg7hhs.gif" group-title="ICE HOCKEY MAY 9",7AM Montreal Canadiens vs Buffalo Sabres
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://daffodil.lphone.support/nhl.m3u8
+https://daffodil.denishdhakal.com.np/nhl.m3u8
 
+#EXTINF:-1 tvg-id="NHL.Network.us" tvg-logo="https://content.sportslogos.net/logos/1/486/full/vh1rmcgy4kvq66dvxj8rg7hhs.gif" group-title="ICE HOCKEY MAY 9",9:30AM Vegas Golden Knights vs Anaheim Ducks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://601.denishdhakal.com.np/nhl.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-logo="https://i.imgur.com/4ptJpjk.png"
+
+#EXTINF:-1 tvg-id="Combat.Sports" tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="COMBAT SPORTS MAY 9",8AM WWE Smackdown
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info/
+https://601.sraspers.org/wwe.m3u8
 
 
 
