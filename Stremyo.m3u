@@ -1,15 +1,3 @@
-#EXTM3U x-tvg-url=""
-#EXTINF:-1 group-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true"
-#EXTINF:27 group-title="NBA LIVE MAY 8" tvg-id="iptv/live" tvg-logo="https://i.imgur.com/cgxACBB.png" provider="NBALP" provider-logo="" provider-type="iptv",7AM Cavaliers vs Pistons
-https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=35cb8fedb8cf094b0783151adcb5a4faee77e2112411f5f42d44f94b75faaf27
-
-#EXTINF:27 group-title="NBA LIVE MAY 8" tvg-id="iptv/live" tvg-logo="https://i.imgur.com/xsJrijA.png" provider="NBALP" provider-logo="" provider-type="iptv",9:30AM Lakers vs Thunder
-https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=35cb8fedb8cf094b0783151adcb5a4faee77e2112411f5f42d44f94b75faaf27
-
-
-
-
-
 #EXTM3U
 #EXTINF:-1 group-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg"
 
@@ -17,7 +5,7 @@ https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=35cb8fed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://daffodil.sraspers.org/nba.m3u8
+https://601.denishdhakal.com.np/nba.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://i.imgur.com/HxsMCVc.png" group-title="NBA Live HD MAY 8",9:30AM Lakers vs Thunder
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
@@ -58,8 +46,7 @@ https://nb2.bpfiles.cfd/live/thunder/stream.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://daffodil.sraspers.org/nhl.m3u8
-
+https://daffodil.lphone.support/nhl.m3u8
 
 
 
