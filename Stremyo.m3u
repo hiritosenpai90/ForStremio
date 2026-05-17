@@ -1,17 +1,21 @@
+#EXTM3U x-tvg-url=""
+#EXTINF:-1 group-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true"
+#EXTINF:27 group-title="NBA LIVE MAY 18" tvg-id="iptv/live" tvg-logo="https://i.imgur.com/cgxACBB.png" provider="NBALP" provider-logo="" provider-type="iptv",8AM Cavaliers vs Pistons
+https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=6ca82cdbf500411d515ef574f7d7d83b2fcfd79100eb3929732845c54476a5d3
+
+
+
+
+
+
 #EXTM3U
-#EXTINF:-1 group-logo="https://i.imgur.com/jqoyj90.png"
+#EXTINF:-1 group-logo="https://cdn.nba.com/manage/2026/04/Playoffs-Logo-16x9-1.jpg"
 
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL MAY 17",9:38AM Los Angeles Dodgers vs Los Angeles Angels
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c841822044463218d97b8a59ff0941e8-thumbnail.jpg" group-title="NBA Live HD MAY 18",7AM Pistons vs Cavaliers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://601.shopacchgia.xyz/mlb14.m3u8
-
-#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL MAY 17",9:40AM San Francisco Giants vs Athletics
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://601.shopacchgia.xyz/mlb15.m3u8
+https://601.shopacchgia.xyz/nba.m3u8
 
 
 
@@ -19,62 +23,28 @@ https://601.shopacchgia.xyz/mlb15.m3u8
 
 
 
+#EXTM3U
+#EXTINF:-1 group-logo="https://cdn.nba.com/manage/2025/02/2025-playoffs-logo-google-banner.jpg"
 
-
-#EXTINF:-1 group-logo="https://i.imgur.com/MFedyaJ.png"
-
-#EXTINF:-1 tvg-id="NHL.Network.us" tvg-logo="https://content.sportslogos.net/logos/1/486/full/vh1rmcgy4kvq66dvxj8rg7hhs.gif" group-title="ICE HOCKEY MAY 17",8AM Buffalo Sabres vs Montreal Canadiens
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://daffodil.worldplaylist.org/nhl.m3u8
-
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://i.imgur.com/1MJOmag.png" group-title="NBA Live HD MAY 18(S2)",7AM Pistons vs Cavaliers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://bo1.bofiles.cfd/live/detroit/stream.m3u8
 
 
 
 
 
-
-
-#EXTINF:-1 group-logo="https://i.imgur.com/4ptJpjk.png"
-
-#EXTINF:-1 tvg-id="Combat.Sports" tvg-logo="https://api.ppv.to/assets/thumb/73768945d595822a075d8bd909e35902-thumbnail.jpg" group-title="COMBAT SPORTS MAY 17",5AM UFC Fight Night: Allen vs. Costa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://601.shopacchgia.xyz/simplyataide.m3u8
-
-#EXTINF:-1 tvg-id="Combat.Sports" tvg-logo="https://api.ppv.to/assets/thumb/d4a591cdcf40790a128f4ab26e5a886a-thumbnail.jpg" group-title="COMBAT SPORTS MAY 17",6AM Rousey vs. Carano
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://601.worldplaylist.org/ppv.m3u8
-
-#EXTINF:-1 tvg-id="Combat.Sports" tvg-logo="https://api.ppv.to/assets/thumb/c3a2fa204fbf08160cf5235ea8515a25-thumbnail.jpg" group-title="COMBAT SPORTS MAY 17",6:30AM Davis vs. Albright II
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info/
-https://customer-zbcm6pq2tkb2rho0.cloudflarestream.com/c447ccfe8c8664e48e6c439c6c331e3e/manifest/video.m3u8
 
 
 
 #EXTM3U
-#EXTINF:-1 group-logo="https://i.imgur.com/4ptJpjk.png"
+#EXTINF:-1 group-logo="https://i.imgur.com/jqoyj90.png"
 
-#EXTINF:-1 tvg-id="Combat.Sports" tvg-logo="https://api.ppv.to/assets/thumb/73768945d595822a075d8bd909e35902-thumbnail.jpg" group-title="COMBAT SPORTS 2 MAY 17",5AM UFC Fight Night: Allen vs. Costa
+#EXTINF:-1 tvg-id="MLB.Baseball.us" tvg-logo="https://assets.turbologo.com/blog/en/2024/07/01151825/MLB-958x575.png" group-title="BASEBALL MAY 18",7:20AM San Diego Padres vs Seattle Mariners
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://bo1.bofiles.cfd/live/ufc/stream.m3u8
-
-#EXTINF:-1 tvg-id="Combat.Sports" tvg-logo="https://api.ppv.to/assets/thumb/d4a591cdcf40790a128f4ab26e5a886a-thumbnail.jpg" group-title="COMBAT SPORTS 2 MAY 17",6AM Rousey vs. Carano
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://bo3.bofiles.cfd/live/ronda/stream.m3u8
-
-#EXTINF:-1 tvg-id="Combat.Sports" tvg-logo="https://api.ppv.to/assets/thumb/c3a2fa204fbf08160cf5235ea8515a25-thumbnail.jpg" group-title="COMBAT SPORTS 2 MAY 17",6:30AM Davis vs. Albright 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sharkstreams.net/
-https://bo3.bofiles.cfd/live/davis/stream.m3u8
+https://mb3.bofiles.cfd/live/15/stream.m3u8
 
 
 
