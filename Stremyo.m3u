@@ -1,16 +1,16 @@
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 group-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true"
 
-#EXTINF:1 group-title="NBALP" tvg-id="" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBA LIVE" provider-logo="" provider-type="iptv",8:30AM LIVE 1 (SERVER1)
+#EXTINF:1 group-title="NBA LIVE" tvg-id="" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",LIVE 1 (SERVER1)
 https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=30419504855e55f998d12bba57cbed51b08ecb835e6ed25a676e925c3e27f158
 
-#EXTINF:1 group-title="NBALP" tvg-id="" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBA LIVE" provider-logo="" provider-type="iptv",8:30AM LIVE 1 (SERVER2)
+#EXTINF:1 group-title="NBA LIVE" tvg-id="" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",LIVE 1 (SERVER2)
 https://nbalp2.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=30419504855e55f998d12bba57cbed51b08ecb835e6ed25a676e925c3e27f158
 
-#EXTINF:2 group-title="NBALP" tvg-id="" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBA LIVE" provider-logo="" provider-type="iptv",8:30AM LIVE 2 (SERVER1)
+#EXTINF:2 group-title="NBA LIVE" tvg-id="" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",LIVE 2 (SERVER1)
 https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=30419504855e55f998d12bba57cbed51b08ecb835e6ed25a676e925c3e27f158
 
-#EXTINF:2 group-title="NBALP" tvg-id="" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBA LIVE" provider-logo="" provider-type="iptv",8:30AM LIVE 2 (SERVER2)
+#EXTINF:2 group-title="NBA LIVE" tvg-id="" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",LIVE 2 (SERVER2)
 https://nbalp2.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=30419504855e55f998d12bba57cbed51b08ecb835e6ed25a676e925c3e27f158
 
 
