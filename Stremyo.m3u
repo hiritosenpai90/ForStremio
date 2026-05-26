@@ -25,6 +25,10 @@ https://daffodil.formaturamaxi.com.br/nba.m3u8
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 https://e4.thetvapp.to/hls/nba01/tracks-v1a1/mono.m3u8?token=3I3MLTGIg3KrFSjq7zmVZg&expires=1779856256&user_id=bDRscW10dXlScDFEblJ6VzZldjNDWUFXMGRsZFg2dG8zYnNrRWFxYw==
 
+#EXTINF:-1 group-title="NBA Event 5/27" tvg-logo="https://api.ppv.st/assets/thumb/36969d0eaf575e6fb9d31504dec50c82-thumbnail.jpg",8:30AM Spurs vs Thunder S3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sharkstreams.net/
+https://nh1.hocloud.cfd/live/nbc/stream.m3u8
 
 
 
