@@ -40,12 +40,12 @@ https://daffodil.formaturamaxi.com.br/nba.m3u8
 
 #EXTINF:-1 group-logo="https://i.imgur.com/odYhtOW.png"
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.st/assets/thumb/88ead7025c519c53415e6e8ccec912ec-thumbnail.jpg" group-title="WNBA Event June 5,7AM Atlanta Dream vs Indiana Fever
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.st/assets/thumb/88ead7025c519c53415e6e8ccec912ec-thumbnail.jpg" group-title="WNBA Event June 5",7AM Atlanta Dream vs Indiana Fever
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 https://lba4.lefiles.cfd/live/fever/stream.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.st/assets/thumb/8818bd7dcd9937dfae72098100a9aa28-thumbnail.jpg" group-title="WNBA Event June 5,9AM Golden State Valkyries vs Minnesota Lynx
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://api.ppv.st/assets/thumb/8818bd7dcd9937dfae72098100a9aa28-thumbnail.jpg" group-title="WNBA Event June 5",9AM Golden State Valkyries vs Minnesota Lynx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
 https://lba4.lefiles.cfd/live/lynx/stream.m3u8
