@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-logo="https://poster.starhubgo.com/Linear_channels2/252_1920x1080_HTV.png"
 
-#EXTINF:-1  tvg-id="udptv/ppvch1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B7433AD5-4028-4F81-BFBD-F63110B0731A/0-16x9.jpg?width=203" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",PPV CH1
-https://box.djdoolky76.net/stream/udptv/ppvch1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-
-#EXTINF:-1  tvg-id="udptv/ppvch2" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B7433AD5-4028-4F81-BFBD-F63110B0731A/0-16x9.jpg?width=203" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",PPV CH2
-https://box.djdoolky76.net/stream/udptv/ppvch2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-
 #EXTINF:-1  tvg-id="udptv/starhubfifawcch1" tvg-logo="https://poster.starhubgo.com/Linear_channels2/251_1920x1080_HTV.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",STARHUB | FIFAWCCh1
 https://box.djdoolky76.net/stream/udptv/starhubfifawcch1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
@@ -74,20 +68,19 @@ https://daffodil.sandhost.dpdns.org/tele.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://602.thelistener.pk/tsn.m3u8
+https://ataide0.formaturamaxi.com.br/tsn.m3u8
 
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Brazil vs. Haiti" tvg-logo="https://api.ppv.to/assets/thumb/f99bc8d8020299f14f5595ed8210fe69-thumbnail.jpg" group-title="Soccer World Cup June 20",8:30am Brazil vs. Haiti(FOX)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://602.formaturamaxi.com.br/fox.m3u8
+https://602.sandhost.dpdns.org/fox.m3u8
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Türkiye vs. Paraguay" tvg-logo="https://api.ppv.to/assets/thumb/edcdc7f424c4e1844b7b066bbd2b3936-thumbnail.jpg" group-title="Soccer World Cup June 20",11am Türkiye vs. Paraguay(FS1)
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Türkiye vs. Paraguay" tvg-logo="https://api.ppv.to/assets/thumb/edcdc7f424c4e1844b7b066bbd2b3936-thumbnail.jpg" group-title="Soccer World Cup June 20",11am Türkiye vs. Paraguay(BEIN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://602.thelistener.pk/fox.m3u8
-
+https://601.sandhost.dpdns.org/bein.m3u8
 
 
 
@@ -98,7 +91,7 @@ https://602.thelistener.pk/fox.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.thelistener.pk/mlb.m3u8
+https://601.sandhost.dpdns.org/mlb.m3u8
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago White Sox vs. Detroit Tigers" tvg-logo="https://api.ppv.to/assets/thumb/06cec066993770c81ab112f5e54f8e02-thumbnail.jpg" group-title="MLB Event June 20",6:40AM Chicago White Sox vs. Detroit Tigers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
@@ -110,25 +103,25 @@ https://601.sandhost.dpdns.org/mlb2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/mlb3.m3u8
+https://601.cloudhostar.com/mlb3.m3u8
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Francisco Giants vs. Miami Marlins" tvg-logo="https://api.ppv.to/assets/thumb/7d5c93e7d0a516e7a2af857c594282af-thumbnail.jpg" group-title="MLB Event June 20",7:10AM San Francisco Giants vs. Miami Marlins
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/mlb4.m3u8
+https://601.formaturamaxi.com.br/mlb5.m3u8
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Washington Nationals vs. Tampa Bay Rays" tvg-logo="https://api.ppv.to/assets/thumb/e8410e69102f710645ed14f84aaf270e-thumbnail.jpg" group-title="MLB Event June 20",7:10AM Washington Nationals vs. Tampa Bay Rays
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/mlb5.m3u8
+https://601.sandhost.dpdns.org/mlb5.m3u8
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Milwaukee Brewers vs. Atlanta Braves" tvg-logo="https://api.ppv.to/assets/thumb/2f97b69669cd7fb3bf4d346eb4f19334-thumbnail.jpg" group-title="MLB Event June 20",7:15AM Milwaukee Brewers vs. Atlanta Braves
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/mlb6.m3u8
+https://601.sandhost.dpdns.org/mlb6.m3u8
 
 #EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="San Diego Padres vs. Texas Rangers" tvg-logo="https://api.ppv.to/assets/thumb/86c51b0095c76e5125e2ba00ff4d5020-thumbnail.jpg" group-title="MLB Event June 20",8:05AM San Diego Padres vs. Texas Rangers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
@@ -191,24 +184,16 @@ https://601.formaturamaxi.com.br/mlb14.m3u8
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://601.sandhost.dpdns.org/wwe.m3u8
 
-
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE Smackdown" tvg-logo="https://api.ppv.to/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Combat Event June 20",8AM WWE Smackdown(S2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+https://601.formaturamaxi.com.br/wwe.m3u8
 
 
 
 
 #EXTINF:-1 group-logo="https://images.squarespace-cdn.com/content/v1/619e9d0a3191f4308bcb0206/1703939911077-3MML6GVYOTU8NXV5UGJV/2024+Pfaff+Motorsports_driveway+McLaren+720S+GT3_Lenssen+Photo-_LP66107.jpg"
-
-#EXTINF:-1 tvg-id="F1.Dummy.us" tvg-name="MotoGP - Coverage" tvg-logo="https://cdn.pixabay.com/photo/2016/08/16/20/54/motogp-1598935_1280.jpg" group-title="Motorsports Event June 19",5:45PM MotoGP - Coverage(FS2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.sandhost.dpdns.org/fs2.m3u8
-
-#EXTINF:-1 tvg-id="F1.Dummy.us" tvg-name="MotoGP - Coverage" tvg-logo="https://cdn.pixabay.com/photo/2016/08/16/20/54/motogp-1598935_1280.jpg" group-title="Motorsports Event June 19",5:45PM MotoGP - Coverage(TNT2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/tnt2.m3u8
 
 #EXTINF:-1 tvg-id="F1.Dummy.us" tvg-name="Indycar Series - Free Practice" tvg-logo="https://wallpaper.forfun.com/fetch/1c/1ca352a57602ca2a61598274fd6ea8fc.jpeg?w=600&r=0.5625&f=webp" group-title="Motorsports Event June 20",5AM Indycar Series - Free Practice
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
@@ -220,23 +205,7 @@ https://daffodil.sandhost.dpdns.org/f1.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/nascar.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://daffodil.formaturamaxi.com.br/nascar.m3u8
 
 
 
