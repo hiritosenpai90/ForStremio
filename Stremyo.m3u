@@ -68,19 +68,19 @@ https://daffodil.sman1asjap.my.id/tele.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.sman1asjap.my.id/tsn.m3u8
+https://ataide0.sman1asjap.my.id/tsn.m3u8
 
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Uruguay vs Cape Verde" tvg-logo="https://api.ppv.to/assets/thumb/b7974e3df742c4f561f925dab6ab3d59-thumbnail.jpg" group-title="Soccer World Cup June 22",6am Uruguay vs Cape Verde(FOX)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.sman1asjap.my.id/fox.m3u8
+https://602.sman1asjap.my.id/fox.m3u8
 
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="New Zealand vs Egypt" tvg-logo="https://api.ppv.to/assets/thumb/cfaa953171592d7565947af1bb442d70-thumbnail.jpg" group-title="Soccer World Cup June 22",9am New Zealand vs Egypt(TSN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.sman1asjap.my.id/tsn.m3u8
+https://ataide0.sman1asjap.my.id/tsn.m3u8
 
 
 
@@ -238,6 +238,7 @@ https://601.sman1asjap.my.id/indy.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 https://daffodil.sman1asjap.my.id/tsn.m3u8
+
 
 
 
