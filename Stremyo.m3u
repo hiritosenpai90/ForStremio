@@ -51,6 +51,16 @@ https://box.djdoolky76.net/stream/udptv/tsn1/master.m3u8?u=gratisph&p=b7594b1f3f
 
 
 
+#EXTINF:-1 group-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true"
+
+#EXTINF:-1  tvg-id="udptv/nbatvphilippines" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/nba-tv-philippines-ph.png?raw=true" group-title="NBA" provider="" provider-type="iptv" provider-logo="",NBA TV Philippines
+https://box.djdoolky76.net/stream/udptv/nbatvphilippines/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+
+#EXTINF:-1  tvg-id="udptvus/nbatv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="NBA" provider="" provider-type="iptv" provider-logo="",NBA TV
+https://box.djdoolky76.net/stream/udptvus/nbatv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+
+#EXTINF:-1  tvg-id="udptvus/nbatvnbalp" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="NBA" provider="" provider-type="iptv" provider-logo="",NBA TV - NBALP
+https://box.djdoolky76.net/stream/udptvus/nbatvnbalp/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
 
 
