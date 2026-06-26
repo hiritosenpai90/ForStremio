@@ -1,142 +1,48 @@
-#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
+#EXTM3U
+#EXTINF:-1 group-logo="https://poster.starhubgo.com/Linear_channels2/252_1920x1080_HTV.png"
 
-#EXTINF:-1 tvg-id="F1.Dummy.us" tvg-name="MotoGP - Coverage (JUN 22 @ 10:40 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/f1.png" group-title="Motorsports",MotoGP - Coverage (JUN 22 @ 10:40 PM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/tnt2.m3u8
+#EXTM3U x-tvg-url="https://cdn2.djdoolky76.com/epg.xml"
 
-#EXTINF:-1 tvg-id="F1.Dummy.us" tvg-name="MXGP (MX2) - Race (JUN 23 @ 02:15 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/4f314c3226507cd4c6d2d195a67fc728-thumbnail.jpg" group-title="Motorsports",MXGP (MX2) - Race (JUN 23 @ 02:15 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/mxgp.m3u8
+#EXTINF:-1  tvg-id="udptv/foxfifafhd" tvg-logo="https://i.imgur.com/GBBCLJo.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",FOX | FIFA FHD
+https://box.djdoolky76.net/stream/udptv/foxfifafhd/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
-#EXTINF:-1 tvg-id="F1.Dummy.us" tvg-name="MXGP - Race (JUN 23 @ 03:15 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/4f314c3226507cd4c6d2d195a67fc728-thumbnail.jpg" group-title="Motorsports",MXGP - Race (JUN 23 @ 03:15 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/mxgp.m3u8
+#EXTINF:-1  tvg-id="udptvus/fs1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",FS1
+https://box.djdoolky76.net/stream/udptvus/fs1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
-#EXTINF:-1 tvg-id="F1.Dummy.us" tvg-name="Indy NXT - Race (JUN 23 @ 07:00 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/4f314c3226507cd4c6d2d195a67fc728-thumbnail.jpg" group-title="Motorsports",Indy NXT - Race (JUN 23 @ 07:00 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.formaturamaxi.com.br/tsn.m3u8
+#EXTINF:-1  tvg-id="udptvus/telemundobayarea" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/telemundo-us.png?raw=true" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",TELEMUNDO | BAY AREA
+https://box.djdoolky76.net/stream/udptvus/telemundobayarea/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
-#EXTINF:-1 tvg-id="F1.Dummy.us" tvg-name="Indycar Series - XPEDL Grand Prix (JUN 23 @ 09:30 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/d721aaa6f3f8f201bc4aa0d5c81fe7e1-thumbnail.jpg" group-title="Motorsports",Indycar Series - XPEDL Grand Prix (JUN 23 @ 09:30 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/indy.m3u8
+#EXTINF:-1  tvg-id="udptv/tsn1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",TSN1
+https://box.djdoolky76.net/stream/udptv/tsn1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
-#EXTINF:-1 tvg-id="F1.Dummy.us" tvg-name="NASCAR Cup Series - Race (JUN 23 @ 11:30 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/4f314c3226507cd4c6d2d195a67fc728-thumbnail.jpg" group-title="Motorsports",NASCAR Cup Series - Race (JUN 23 @ 11:30 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.formaturamaxi.com.br/tsn.m3u8
+#EXTINF:-1  tvg-id="udptv/tsn4" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-4-ca.png" group-title="FIFA WORLD CUP 2026" provider="" provider-type="iptv" provider-logo="",TSN4
+https://box.djdoolky76.net/stream/udptv/tsn4/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Kansas City Royals vs Tampa Bay Rays (JUN 26 @ 07:10 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/fda72535ed1fa2cf4e8ac894d6a97bb8-thumbnail.jpg" group-title="MLB",Kansas City Royals vs Tampa Bay Rays (JUN 26 @ 07:10 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/mlb.m3u8
+#EXTINF:-1 tvg-id="wctv1" tvg-name="WCTV" tvg-logo="https://img.dge-prod.dicelaboratory.com/AUTOx150/2026/06/01100422-06frvrwe8w3np6fv.png" group-title="FIFA WORLD CUP 2026", WCTV
+http://wccdn.djdoolky76.net/stream/wctv/index.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Seattle Mariners vs Pittsburgh Pirates (JUN 26 @ 07:35 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/ee86fabc212e66d24df4fa62dd62caef-thumbnail.jpg" group-title="MLB",Seattle Mariners vs Pittsburgh Pirates (JUN 26 @ 07:35 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/mlb2.m3u8
+#EXTINF:-1 tvg-id="wctv2" tvg-name="WCTV2" tvg-logo="https://img.dge-prod.dicelaboratory.com/AUTOx150/2026/06/01100741-xohdgirjqlyydgxq.png" group-title="FIFA WORLD CUP 2026", WCTV2
+http://wccdn.djdoolky76.net/stream/wctv2/index.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Athletics vs San Francisco Giants (JUN 26 @ 10:45 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/08698c07dc99127fbd3881e54908f083-thumbnail.jpg" group-title="MLB",Athletics vs San Francisco Giants (JUN 26 @ 10:45 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/mlb3.m3u8
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Curaçao vs Ivory Coast (JUN 26 @ 11:00 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/3f029522114837d358231458066ba549-thumbnail.jpg" group-title="Soccer",Curaçao vs Ivory Coast (JUN 26 @ 11:00 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://602.formaturamaxi.com.br/tsn.m3u8
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Ecuador vs Germany (JUN 26 @ 11:00 AM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/e340c0ff6d69afd93b8aa40c028890e0-thumbnail.jpg" group-title="Soccer",Ecuador vs Germany (JUN 26 @ 11:00 AM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://ataide0.formaturamaxi.com.br/tsn.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Houston Astros vs Detroit Tigers (JUN 26 @ 01:40 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/a1f4e369cbd32d1bc7fcad5b72404667-thumbnail.jpg" group-title="MLB",Houston Astros vs Detroit Tigers (JUN 26 @ 01:40 PM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/mlb4.m3u8
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Philadelphia Phillies vs Washington Nationals (JUN 26 @ 01:45 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/2f870797b9d668169b53f482ae5c6030-thumbnail.jpg" group-title="MLB",Philadelphia Phillies vs Washington Nationals (JUN 26 @ 01:45 PM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/mlb5.m3u8
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Tunisia vs Netherlands (JUN 26 @ 02:00 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/c56f54c1a35ecc7a87193490d5aacda1-thumbnail.jpg" group-title="Soccer",Tunisia vs Netherlands (JUN 26 @ 02:00 PM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://ataide0.formaturamaxi.com.br/tsn.m3u8
+#EXTINF:-1 group-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true"
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Japan vs Sweden (JUN 26 @ 02:00 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/b0e06d7a9157644a2d60157376161bf5-thumbnail.jpg" group-title="Soccer",Japan vs Sweden (JUN 26 @ 02:00 PM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://602.formaturamaxi.com.br/tsn.m3u8
+#EXTINF:-1  tvg-id="udptv/nbatvphilippines" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/philippines/nba-tv-philippines-ph.png?raw=true" group-title="BASKETBALL" provider="" provider-type="iptv" provider-logo="",NBA TV Philippines
+https://box.djdoolky76.net/stream/udptv/nbatvphilippines/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Texas Rangers vs Toronto Blue Jays (JUN 26 @ 02:07 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/fbc7de10060dfd46406613863b58010c-thumbnail.jpg" group-title="MLB",Texas Rangers vs Toronto Blue Jays (JUN 26 @ 02:07 PM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/mlb6.m3u8
+#EXTINF:-1  tvg-id="udptvus/nbatv" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="BASKETBALL" provider="" provider-type="iptv" provider-logo="",NBA TV
+https://box.djdoolky76.net/stream/udptvus/nbatv/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Chicago Cubs vs New York Mets (JUN 26 @ 02:10 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/ce1598f7c03f46b086999e6a6f057def-thumbnail.jpg" group-title="MLB",Chicago Cubs vs New York Mets (JUN 26 @ 02:10 PM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/mlb7.m3u8
+#EXTINF:-1  tvg-id="udptvus/nbatvnbalp" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="BASKETBALL" provider="" provider-type="iptv" provider-logo="",NBA TV - NBALP
+https://box.djdoolky76.net/stream/udptvus/nbatvnbalp/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="New York Yankees vs Boston Red Sox (JUN 26 @ 02:10 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/00f1eb081cbbcc66db4dacb7939d7392-thumbnail.jpg" group-title="MLB",New York Yankees vs Boston Red Sox (JUN 26 @ 02:10 PM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/mlb8.m3u8
+#EXTINF:-1  tvg-id="udptv/pbarush" tvg-logo="https://i.imgur.com/tvxCVRr.png" group-title="BASKETBALL" provider="" provider-type="iptv" provider-logo="",PBA Rush
+https://box.djdoolky76.net/stream/udptv/pbarush/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="Arizona Diamondbacks vs St. Louis Cardinals (JUN 26 @ 02:45 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/befc90bc75e31b7a6c1d0cad6d4fcc88-thumbnail.jpg" group-title="MLB",Arizona Diamondbacks vs St. Louis Cardinals (JUN 26 @ 02:45 PM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://601.formaturamaxi.com.br/mlb9.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Paraguay vs Australia (JUN 26 @ 05:00 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/8f275ad055747126119282d2d382b1cc-thumbnail.jpg" group-title="Soccer",Paraguay vs Australia (JUN 26 @ 05:00 PM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://602.formaturamaxi.com.br/tsn.m3u8
-
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Turkey vs USA (JUN 26 @ 05:00 PM PHT)" tvg-logo="https://raw.githubusercontent.com/atone77721/LiveGames/refs/heads/main/logos/football.png" group-title="Soccer",Turkey vs USA (JUN 26 @ 05:00 PM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://ataide0.formaturamaxi.com.br/tsn.m3u8
-
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="NHL Draft 2026 (JUN 27 @ 02:00 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/d8c6788285e93807efdeb5b38cb4a355-thumbnail.jpg" group-title="NHL",NHL Draft 2026 (JUN 27 @ 02:00 PM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://602.formaturamaxi.com.br/nhl.m3u8
-
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="WWE Smackdown (JUN 27 @ 03:00 PM PHT)" tvg-logo="https://api.ppv.st/assets/thumb/ec7810b68fc39115ce3510bcf9687a63-thumbnail.jpg" group-title="Fighting",WWE Smackdown (JUN 27 @ 03:00 PM PHT)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-https://daffodil.formaturamaxi.com.br/wwe.m3u8
 
 
 
